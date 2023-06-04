@@ -37,7 +37,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 37,98,Alex,Carey,Alex Carey,m,left-hand-bat,,Wicketkeeper,3,1991-08-27
 38,98,Nathan,Coulter-Nile,Nathan Coulter-Nile,m,right-hand-bat,right-arm-fast,Bowling Allrounder,11,1987-10-11
 39,98,Chris,Lynn,Chris Lynn,m,right-hand-bat,slow-left-arm-orthodox,Batsman,1,1990-04-10
-40,98,Glenn,Maxwell,Glenn Maxwell,m,right-hand-bat,right-arm-offbreak,Batting Allrounder,14,1988-10-14
+40,98,Glenn,Maxwell,Glenn Maxwell,m,right-hand-bat,right-arm-offbreak,Allrounder,4,1988-10-14
 41,98,D'Arcy,Short,D'Arcy Short,m,left-hand-bat,slow-left-arm-orthodox,Batsman,1,1990-08-09
 42,98,Billy,Stanlake,Billy Stanlake,m,left-hand-bat,right-arm-fast,Bowler,2,1994-11-04
 43,98,Andrew,Tye,Andrew Tye,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1986-12-12
@@ -617,7 +617,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 627,98,Mitchell,Johnson,Mitchell Johnson,m,left-hand-bat,left-arm-fast,Bowler,2,1981-11-02
 628,98,Joel,Paris,Joel Paris,m,left-hand-bat,left-arm-fast-medium,Bowler,2,1992-12-11
 629,98,Matthew,Kelly,Matthew Kelly,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1994-12-07
-630,98,Cameron,Green,Cameron Green,m,right-hand-bat,right-arm-fast-medium,Batting Allrounder,14,1999-06-03
+630,98,Cameron,Green,Cameron Green,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1999-06-03
 631,98,Haydan,Morton,Haydan Morton,m,right-hand-bat,slow-left-arm-orthodox,Bowler,2,1994-02-27
 632,98,James,Muirhead,James Muirhead,m,right-hand-bat,legbreak-googly,Bowler,2,1993-07-30
 634,24150873,Samuel,Badree,Samuel Badree,m,right-hand-bat,legbreak,Batsman,1,1981-03-08
@@ -790,7 +790,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 804,2325,Regis,Chakabva,Regis Chakabva,m,right-hand-bat,right-arm-offbreak,Wicketkeeper,3,1987-09-20
 805,2325,Ryan,Burl,Ryan Burl,m,left-hand-bat,legbreak,Middle Order Batter,8,1994-04-15
 812,1004,Navneet,Dhaliwal,Navneet Dhaliwal,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1988-10-10
-815,153732,Axar,Patel,Axar Patel,m,left-hand-bat,slow-left-arm-orthodox,Bowling Allrounder,11,1994-01-20
+815,153732,Axar,Patel,Axar Patel,m,left-hand-bat,slow-left-arm-orthodox,Allrounder,4,1994-01-20
 818,64306,Anshuman,Rath,Anshuman Rath,m,left-hand-bat,slow-left-arm-orthodox,Wicketkeeper,3,1997-11-05
 821,64306,Aizaz,Khan,Aizaz Khan,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1993-03-21
 824,64306,Cameron,McAuslan,Cameron McAuslan,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1998-06-01
@@ -1257,7 +1257,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 2267,153732,Gautam,Gambhir,Gautam Gambhir,m,left-hand-bat,legbreak,Batsman,1,1981-10-14
 2270,153732,Yusuf,Pathan,Yusuf Pathan,m,right-hand-bat,right-arm-offbreak,Allrounder,4,1982-11-17
 2273,153732,Ashish,Nehra,Ashish Nehra,m,right-hand-bat,left-arm-fast-medium,Bowler,2,1979-04-29
-2279,153732,Piyush,Chawla,Piyush Chawla,m,left-hand-bat,legbreak,Bowling Allrounder,11,1988-12-24
+2279,153732,Piyush,Chawla,Piyush Chawla,m,left-hand-bat,legbreak,Allrounder,4,1988-12-24
 2282,43444,Hameed,Hassan,Hameed Hassan,m,right-hand-bat,right-arm-fast,Bowler,2,1987-06-01
 2285,98,Xavier,Doherty,Xavier Doherty,m,left-hand-bat,slow-left-arm-orthodox,Bowler,2,1982-11-22
 2288,2325,Gary,Ballance,Gary Ballance,m,left-hand-bat,legbreak,Batsman,1,1989-11-22
@@ -1924,7 +1924,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 4334,153732,Amitoze,Singh,Amitoze Singh,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1989-02-15
 4337,146,Corbin,Bosch,Corbin Bosch,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1994-09-10
 4340,153732,Reetinder,Sodhi,Reetinder Sodhi,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1980-10-18
-4343,2802,Muhammad,Usman,Muhammad Usman,m,left-hand-bat,,Bowler,2,1985-10-13
+4343,2802,Muhammad,Usman,Muhammad Usman,m,left-hand-bat,,Batsman,1,1984-10-13
 4346,146,Nandre,Burger,Nandre Burger,m,left-hand-bat,left-arm-fast-medium,Bowler,2,1995-08-11
 4349,462,Harry,Finch,Harry Finch,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1995-02-10
 4352,462,Jacob,Lintott,Jacob Lintott,m,right-hand-bat,slow-left-arm-orthodox,Allrounder,4,1993-04-22
@@ -2609,7 +2609,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 6469,462,Scott,Steel,Scott Steel,m,right-hand-bat,right-arm-offbreak,Allrounder,4,1999-04-20
 6472,146,Donavon,Ferreira,Donavon Ferreira,m,right-hand-bat,,Allrounder,4,1998-07-21
 6475,153732,Yarra,Prithviraj,Yarra Prithviraj,m,left-hand-bat,left-arm-fast-medium,Bowler,2,1998-02-20
-6478,146,Marco,Jansen,Marco Jansen,m,right-hand-bat,left-arm-fast,Bowling Allrounder,11,2000-05-01
+6478,146,Marco,Jansen,Marco Jansen,m,right-hand-bat,left-arm-fast,Allrounder,4,2000-05-01
 6484,146,Luvuyo,Adam,Luvuyo Adam,m,left-hand-bat,slow-left-arm-orthodox,Bowler,2,1992-12-16
 6487,155043,Yasir,Ali,Yasir Ali,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1996-03-06
 6493,462,Daniel,Douthwaite,Daniel Douthwaite,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1997-02-08
@@ -2983,7 +2983,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 7623,153732,Suresh,Kumar,Suresh Kumar,m,right-hand-bat,right-arm-offbreak,Batsman,1,1985-03-20
 7626,153732,Mani,Bharathi,Mani Bharathi,m,right-hand-bat,,Wicketkeeper,3,1992-04-13
 7629,153732,MS,Sanjay,MS Sanjay,m,right-hand-bat,slow-left-arm-orthodox,Allrounder,4,1996-11-28
-7632,153732,Sonu,Yadav,Sonu Yadav,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1999-11-11
+7632,153732,Sonu,Yadav,Sonu Yadav,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1999-11-11
 7635,153732,Lakshminarayanan,Vignesh,Lakshminarayanan Vignesh,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1989-03-20
 7638,153732,DT,Chandrasekar,DT Chandrasekar,m,right-hand-bat,slow-left-arm-orthodox,Bowler,2,1992-11-09
 7641,153732,Saravan,Kumar,Saravan Kumar,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1989-08-26
@@ -3718,7 +3718,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 9918,153732,Prince,Balwant Rai Singh,Prince Balwant Rai Singh,m,right-hand-bat,legbreak-googly,Bowler,2,1999-05-05
 9921,153732,Anuj,Rawat,Anuj Rawat,m,left-hand-bat,,Wicketkeeper,3,1999-10-17
 9924,153732,Shahbaz,Ahmed,Shahbaz Ahmed,m,left-hand-bat,slow-left-arm-orthodox,Allrounder,4,1994-12-12
-9927,153732,Abdul,Samad,Abdul Samad,m,right-hand-bat,legbreak,Batsman,1,2001-10-28
+9927,153732,Abdul,Samad,Abdul Samad,m,right-hand-bat,legbreak,Allrounder,4,2001-10-28
 9930,153732,Bavanaka,Sandeep,Bavanaka Sandeep,m,left-hand-bat,slow-left-arm-orthodox,Batsman,1,1992-04-25
 9933,153732,Virat,Singh,Virat Singh,m,left-hand-bat,legbreak-googly,Batsman,1,1997-12-08
 9936,98,Macalister,Wright,Macalister Wright,m,right-hand-bat,legbreak,Middle Order Batter,8,1998-01-22
@@ -4911,7 +4911,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 13551,153732,Gokul,Namburi Sai,Gokul Namburi Sai,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1992-07-14
 13554,245,Purvang,Trambadia,Purvang Trambadia,m,,,Bowler,2,2001-01-01
 13557,1233,Gerard,Brady,Gerard Brady,m,,,Bowler,2,2000-01-01
-13560,245,Sabawoon,Davizi,Sabawoon Davizi,m,left-hand-bat,right-arm-fast-medium,Allrounder,4,1997-06-22
+13560,43444,Sabawoon,Davizi,Sabawoon Davizi,m,left-hand-bat,right-arm-fast-medium,Allrounder,4,1997-06-22
 13563,245,Honey,Gori,Honey Gori,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1990-11-10
 13566,245,Jafar,Stooman,Jafar Stooman,m,,,Bowler,2,2001-01-01
 13569,245,Pradeepraj,Balakrishnan,Pradeepraj Balakrishnan,m,,,Batsman,1,2001-01-01
@@ -5655,7 +5655,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 15822,2802,Hassan,Khalid,Hassan Khalid,m,,,Bowler,2,2001-01-01
 15825,2802,Iqrar,Shah,Iqrar Shah,m,,,Allrounder,4,2001-01-01
 15828,2802,Jash,Giyanani,Jash Giyanani,m,,,Allrounder,4,2001-01-01
-15831,2802,Lovepreet,Singh Bajwa,Lovepreet Singh Bajwa,m,right-hand-bat,,Batsman,1,2002-05-12
+15831,2802,Lovepreet,Singh Bajwa,Lovepreet Singh Bajwa,m,right-hand-bat,legbreak-googly,Batsman,1,2002-12-05
 15834,2802,Luqman,Hazrat,Luqman Hazrat,m,,,Bowler,2,2001-01-01
 15837,2802,Maroof,Merchant,Maroof Merchant,m,,,Bowler,2,2001-01-01
 15840,2802,Muhamad,Kaleem,Muhamad Kaleem,m,,,Allrounder,4,2001-01-01
@@ -5678,7 +5678,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 15894,2802,Gopakumar,Gopalakrishnan,Gopakumar Gopalakrishnan,m,,,Batsman,1,2001-01-01
 15897,2802,Hafeez,ur Rahman,Hafeez ur Rahman,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1994-08-11
 15900,2802,Hazrat,Bilal,Hazrat Bilal,m,right-hand-bat,right-arm-fast,Bowler,2,1988-01-02
-15903,2802,Junaid,Shamzu,Junaid Shamzu,m,,,Allrounder,4,2001-01-01
+15903,2802,Junaid,Shamsudheen,Junaid Shamsudheen,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1993-12-02
 15906,2802,Khalid,Shah,Khalid Shah,m,left-hand-bat,,Wicketkeeper,3,1996-07-16
 15909,2802,Muhammad,Farooq,Muhammad Farooq,m,right-hand-bat,,Allrounder,4,1992-10-05
 15912,2802,Nathan,Shibu,Nathan Shibu,m,,,Wicketkeeper,3,2001-01-01
@@ -6128,7 +6128,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 17289,143,Sikander,Hayat,Sikander Hayat,m,right-hand-bat,,Allrounder,4,1987-02-15
 17292,143,Itibarshah,Deedar,Itibarshah Deedar,m,right-hand-bat,right-arm-fast,Bowler,2,2002-10-12
 17295,143,Adeel,Tariq,Adeel Tariq,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1999-11-30
-17298,143,Ziaurrahman,Shinwari,Ziaurrahman Shinwari,m,right-hand-bat,right-arm-fast,Bowler,2,2001-01-01
+17298,143,Ziaurrahman,Shinwari,Ziaurrahman Shinwari,m,right-hand-bat,right-arm-fast,Bowler,2,2002-01-01
 17301,143,Jamil,Ahmad,Jamil Ahmad,m,right-hand-bat,,Batsman,1,2000-01-01
 17304,143,Israr Ahmed,Sarwat,Israr Ahmed Sarwat,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1980-12-23
 17307,143,Shak,Ashik,Shak Ashik,m,right-hand-bat,,Batsman,1,2002-02-28
@@ -6144,7 +6144,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 17337,143,Sunny,Bains,Sunny Bains,m,right-hand-bat,slow-left-arm-orthodox,Batsman,1,1986-10-13
 17340,143,Zaherullah,Jabarkhel,Zaherullah Jabarkhel,m,right-hand-bat,right-arm-fast,Bowler,2,2001-01-01
 17343,556,Abdul,Rahim,Abdul Rahim,m,,,Bowler,2,2000-01-01
-17346,143,Atiqullah,Wahidi,Atiqullah Wahidi,m,,,Wicketkeeper,3,2000-01-01
+17346,143,Atiqullah,Wahidi,Atiqullah Wahidi,m,right-hand-bat,,Wicketkeeper,3,1997-01-01
 17352,143,Mumtaz,Tanha,Mumtaz Tanha,m,right-hand-bat,right-arm-fast-medium,Batsman,1,2000-01-01
 17355,1233,Malik Ali,Shan,Malik Ali Shan,m,,,Bowler,2,2000-01-01
 17358,556,Nemish,Mehta,Nemish Mehta,m,left-hand-bat,left-arm-fast-medium,Bowler,2,2000-01-01
@@ -6170,7 +6170,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 17418,98,Zayden,Lewis,Zayden Lewis,m,,,Allrounder,4,2001-01-01
 17421,98,Ritesh,Patel,Ritesh Patel,m,,,Bowler,2,2001-01-01
 17424,556,Waqas,Raja,Waqas Raja,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1986-12-12
-17427,143,Baseer,Khan,Baseer Khan,m,,,Bowler,2,2001-01-01
+17427,43444,Baseer,Khan,Baseer Khan,m,right-hand-bat,right-arm-fast,Bowler,2,1996-08-08
 17433,143,Aziz,Khatak,Aziz Khatak,m,,,Batsman,1,2001-01-01
 17436,143,Aziz,Khaksar,Aziz Khaksar,m,,,Allrounder,4,2001-01-01
 17439,43444,Qadargul,Utmanzai,Qadargul Utmanzai,m,left-hand-bat,,Wicketkeeper,3,1998-01-01
@@ -6202,7 +6202,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 17520,143,Umair,Tariq,Umair Tariq,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1997-11-25
 17523,143,Saveez,Khawaja,Saveez Khawaja,m,,,Batsman,1,2001-01-01
 17526,143,Ramish,Malik,Ramish Malik,m,,,Batsman,1,2001-01-01
-17529,143,Bilal,Zalmai,Bilal Zalmai,m,,,Allrounder,4,2001-01-01
+17529,143,Bilal,Zalmai,Bilal Zalmai,m,right-hand-bat,,Allrounder,4,1993-08-15
 17532,143,Mohammad Waqar,Zalmai,Mohammad Waqar Zalmai,m,,,Bowler,2,2001-01-01
 17535,143,Jaweed,Zadran,Jaweed Zadran,m,right-hand-bat,right-arm-fast,Bowler,2,2002-04-15
 17538,143,Usman,Gol,Usman Gol,m,,,Bowler,2,2001-01-01
@@ -6436,14 +6436,14 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 18243,251,Jayamanna,Buwaneka Jayamanna,Jayamanna Buwaneka Jayamanna,m,,,Batsman,1,2001-01-01
 18246,251,Simranjit,Singh,Simranjit Singh,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1993-01-02
 18249,251,Jaswinder,Singh,Jaswinder Singh,m,,,Allrounder,4,2001-01-01
-18252,251,Jagjit,Singh,Jagjit Singh,m,,,Wicketkeeper,3,2000-01-01
+18252,251,Jagjit,Singh,Jagjit Singh,m,right-hand-bat,right-arm-fast-medium,Wicketkeeper,3,1981-12-29
 18255,153732,Jaipal,Singh,Jaipal Singh,m,right-hand-bat,,Batsman,1,1979-09-15
 18258,251,Jagmeet,Singh,Jagmeet Singh,m,right-hand-bat,,Allrounder,4,1991-04-11
 18261,251,Kulmeet,Singh,Kulmeet Singh,m,,,Batsman,1,2001-01-01
-18264,251,Vikas,Kumar,Vikas Kumar,m,,,Wicketkeeper,3,2001-01-01
+18264,153732,Vikas,Kumar,Vikas Kumar,m,right-hand-bat,right-arm-fast-medium,Wicketkeeper,3,1977-11-14
 18267,52126,Ali,Noman,Ali Noman,m,right-hand-bat,right-arm-fast-medium,Bowler,2,2000-02-03
 18270,251,Atiq,Tabraiz,Atiq Tabraiz,m,,,Bowler,2,2001-01-01
-18273,251,Harmanjeet,Singh,Harmanjeet Singh,m,,,Batsman,1,2001-01-01
+18273,153732,Harmanjeet,Singh,Harmanjeet Singh,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1994-09-08
 18276,251,Jaspal,Ram,Jaspal Ram,m,right-hand-bat,right-arm-fast,Allrounder,4,2001-12-05
 18279,251,Sarbjit,Singh,Sarbjit Singh,m,,,Wicketkeeper,3,2001-01-01
 18282,251,Abdul,Kashif,Abdul Kashif,m,,,Bowler,2,2001-01-01
@@ -6559,12 +6559,12 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 18618,153732,Sonu,Lal,Sonu Lal,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1994-01-25
 18621,251,Hardeep,Singh,Hardeep Singh,m,right-hand-bat,right-arm-fast,Allrounder,4,1987-08-25
 18624,153732,Pardeep,Singh,Pardeep Singh,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1990-12-20
-18627,251,Hamza,Saad,Hamza Saad,m,,,Bowler,2,2000-01-01
+18627,251,Hamza,Saad,Hamza Saad,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1999-12-10
 18630,251,Zain,Abdeen Ul,Zain Abdeen Ul,m,,,Allrounder,4,2000-01-01
-18633,251,Bachittar,Singh,Bachittar Singh,m,,,Allrounder,4,2000-01-01
+18633,251,Bachittar,Singh,Bachittar Singh,m,right-hand-bat,right-arm-fast,Allrounder,4,1982-03-26
 18636,251,Muhammad,Saqib,Muhammad Saqib,m,,,Wicketkeeper,3,2000-01-01
-18639,251,Naeem,Ahmad,Naeem Ahmad,m,,,Wicketkeeper,3,2000-01-01
-18642,251,Adnan,Ali,Adnan Ali,m,,,Batsman,1,2000-01-01
+18639,251,Naeem,Ahmad,Naeem Ahmad,m,right-hand-bat,,Wicketkeeper,3,1997-09-18
+18642,251,Adnan,Ali,Adnan Ali,m,right-hand-bat,,Batsman,1,1992-05-17
 18645,251,Gurjinder,Singh,Gurjinder Singh,m,,,Batsman,1,2000-01-01
 18648,251,Hasnat,Ahmed,Hasnat Ahmed,m,,,Batsman,1,2000-01-01
 18651,251,Waseem,Ahmad,Waseem Ahmad,m,right-hand-bat,right-arm-fast,Allrounder,4,1992-02-05
@@ -6572,7 +6572,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 18657,251,Muhammad,Yaseen,Muhammad Yaseen,m,,,Wicketkeeper,3,2000-01-01
 18660,251,Raheem,Qureshi,Raheem Qureshi,m,,,Bowler,2,2000-01-01
 18663,251,Suleman,Ali,Suleman Ali,m,,,Bowler,2,2000-01-01
-18666,251,Usama,Munir,Usama Munir,m,,,Bowler,2,2000-01-01
+18666,251,Usama,Munir,Usama Munir,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1999-06-27
 18669,462,Vikai,Kelley,Vikai Kelley,m,,,Batsman,1,2000-01-01
 18675,251,Palihawadana,Perera,Palihawadana Perera,m,,,Allrounder,4,2001-01-01
 18678,251,Hossain,Adnan,Hossain Adnan,m,,,Allrounder,4,2001-01-01
@@ -7131,7 +7131,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 20370,20,Paulo,Buccimazza,Paulo Buccimazza,m,right-hand-bat,,Allrounder,4,1981-10-01
 20373,20,Mohon M F,Hussain,Mohon M F Hussain,m,,,Bowler,2,2001-01-01
 20376,20,Jiteshkumar,Balkrisna,Jiteshkumar Balkrisna,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1969-05-10
-20379,153732,Kuldeep,Gholiya,Kuldeep Gholiya,m,right-hand-bat,,Wicketkeeper,3,1990-02-04
+20379,20,Kuldeep,Gholiya,Kuldeep Gholiya,m,right-hand-bat,,Wicketkeeper,3,1990-02-04
 20382,153732,Ranjit,Narayan,Ranjit Narayan,m,right-hand-bat,right-arm-offbreak,Batsman,1,1972-09-07
 20385,153732,Krut,Patel,Krut Patel,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1990-04-02
 20388,146,Conrad,Greenshields,Conrad Greenshields,m,right-hand-bat,right-arm-fast,Batsman,1,1984-06-09
@@ -7562,7 +7562,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 21672,32,Aqtadar Iqbal,Khan,Aqtadar Iqbal Khan,m,,,Allrounder,4,2001-01-01
 21675,32,Amir,Shahzad,Amir Shahzad,m,,,Bowler,2,2001-01-01
 21678,32,Prince,Dhiman,Prince Dhiman,m,,,Batsman,1,2001-01-01
-21681,32,Kamran,Hussain,Kamran Hussain,m,,,Batsman,1,2001-01-01
+21681,251,Kamran,Hussain,Kamran Hussain,m,right-hand-bat,,Batsman,1,1990-05-25
 21684,32,Hafiz Usman,Anwar,Hafiz Usman Anwar,m,,,Bowler,2,2001-01-01
 21687,32,Jafar,Iqbal,Jafar Iqbal,m,,,Batsman,1,2001-01-01
 21690,32,Nasir,Shahzad,Nasir Shahzad,m,,,Allrounder,4,2001-01-01
@@ -8216,7 +8216,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 23676,153732,Sandipan,Das Jr.,Sandipan Das Jr.,m,,,Bowler,2,1997-10-14
 23679,153732,Suraj Sindhu,Jaiswal,Suraj Sindhu Jaiswal,m,,,Bowler,2,1999-12-02
 23682,153732,Writtick,Chatterjee,Writtick Chatterjee,m,,,Bowler,2,1992-09-28
-23685,153732,Akash,Deep,Akash Deep,m,right-hand-bat,right-arm-fast-medium,Bowling Allrounder,11,1996-12-15
+23685,153732,Akash,Deep,Akash Deep,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1996-12-15
 23688,153732,Angshuman,Chakrborty,Angshuman Chakrborty,m,,,Allrounder,4,2001-01-01
 23691,153732,Prince,Yadav,Prince Yadav,m,,,Allrounder,4,2001-01-01
 23694,153732,Saurabh,Singh,Saurabh Singh,m,,,Allrounder,4,2001-01-01
@@ -8348,7 +8348,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 24078,2802,Muhammad Umar,Arshad,Muhammad Umar Arshad,m,,,Wicketkeeper,3,2001-01-01
 24081,2802,Ali,Khan,Ali Khan,m,right-hand-bat,,Batsman,1,1989-01-08
 24084,2802,Amjad,Khan,Amjad Khan,m,,,Batsman,1,2001-01-01
-24090,2802,Asif,Khan,Asif Khan,m,,,Batsman,1,2002-01-01
+24090,2802,Asif,Khan,Asif Khan,m,right-hand-bat,right-arm-offbreak,Batsman,1,1990-02-14
 24093,2802,Waqas,Ali,Waqas Ali,m,,,Batsman,1,2002-01-01
 24096,2802,Muhammad Ehtesham,Siddiq,Muhammad Ehtesham Siddiq,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1999-06-16
 24099,2802,Sultan Muhammad,Akhtar,Sultan Muhammad Akhtar,m,,,Bowler,2,2001-01-01
@@ -8985,7 +8985,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 26021,146,Andrew,Puttick,Andrew Puttick,m,left-hand-bat,right-arm-offbreak,Wicketkeeper,3,1980-12-11
 26024,153732,Yudhvir,Singh Charak,Yudhvir Singh Charak,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1997-09-13
 26027,153732,Rajat,Patidar,Rajat Patidar,m,right-hand-bat,right-arm-offbreak,Batsman,1,1993-06-01
-26030,153732,Suyash,Prabhudessai,Suyash Prabhudessai,m,right-hand-bat,,Batting Allrounder,14,1997-12-06
+26030,153732,Suyash,Prabhudessai,Suyash Prabhudessai,m,right-hand-bat,,Batsman,1,1997-12-06
 26033,153732,Mohammed,Azharuddeen,Mohammed Azharuddeen,m,right-hand-bat,,Wicketkeeper,3,1994-03-22
 26036,153732,Bhagath,Varma,Bhagath Varma,m,right-hand-bat,right-arm-offbreak,Allrounder,4,1998-09-21
 26039,462,James,Tindall,James Tindall,m,,,Bowler,2,2000-01-01
@@ -9065,14 +9065,14 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 26276,52126,Hassan,Ali,Hassan Ali,m,right-hand-bat,left-arm-fast,Bowler,2,2001-08-28
 26279,52126,Muddassar,Ali,Muddassar Ali,m,right-hand-bat,right-arm-fast,Allrounder,4,1981-07-21
 26282,251,Malkeet,Singh,Malkeet Singh,m,,,Allrounder,4,2001-01-01
-26285,251,Harmanpreetpal,Singh,Harmanpreetpal Singh,m,,,Batsman,1,2001-01-01
-26288,251,Lakhvir,Singh,Lakhvir Singh,m,,,Batsman,1,2001-01-01
+26285,153732,Harmanpreetpal,Singh,Harmanpreetpal Singh,m,right-hand-bat,,Batsman,1,1997-12-12
+26288,153732,Lakhvir,Singh,Lakhvir Singh,m,right-hand-bat,,Batsman,1,1996-04-05
 26291,251,Momi,Taran,Momi Taran,m,,,Bowler,2,2001-01-01
-26294,251,Muhammad,Awais,Muhammad Awais,m,,,Allrounder,4,2001-01-01
+26294,224,Muhammad,Awais,Muhammad Awais,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,2001-01-01
 26297,251,Muhammed,Maqsood,Muhammed Maqsood,m,,,Bowler,2,2001-01-01
 26300,251,Praveen,Kumar,Praveen Kumar,m,,,Allrounder,4,2001-01-01
 26303,251,Rakibull,Hassan,Rakibull Hassan,m,,,Allrounder,4,2001-01-01
-26306,52126,Muhammad,Shafique,Muhammad Shafique,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1987-07-28
+26306,52126,Shafique,Muhammad,Shafique Muhammad,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1987-07-28
 26309,251,Sukhjinder,Singhrobin,Sukhjinder Singhrobin,m,,,Bowler,2,2001-01-01
 26312,251,Nasir,Abbas,Nasir Abbas,m,,,Wicketkeeper,3,2001-01-01
 26315,251,Anam,Mollik,Anam Mollik,m,,,Batsman,1,2001-01-01
@@ -9187,12 +9187,12 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 26645,251,Mazhar,Waheed Abbasi,Mazhar Waheed Abbasi,m,,,Wicketkeeper,3,2001-01-01
 26648,251,Ali,Saqib Arshad,Ali Saqib Arshad,m,,,Bowler,2,2001-01-01
 26651,251,Usman,Arshad,Usman Arshad,m,,,Batsman,1,2001-01-01
-26654,251,Muhammad,Arslan,Muhammad Arslan,m,,,Batsman,1,2001-01-01
+26654,488,Muhammad,Arslan,Muhammad Arslan,m,right-hand-bat,right-arm-fast,Allrounder,4,2000-02-15
 26657,251,Muhammad Waseem,Asghar,Muhammad Waseem Asghar,m,,,Batsman,1,2001-01-01
 26660,251,Saeed,Asghar,Saeed Asghar,m,,,Allrounder,4,2001-01-01
 26663,251,Muhammad,Waqas Asghar,Muhammad Waqas Asghar,m,,,Allrounder,4,2001-01-01
 26666,251,Awais,Asghar,Awais Asghar,m,,,Bowler,2,2001-01-01
-26669,251,Awais,Ashiq,Awais Ashiq,m,,,Allrounder,4,2001-01-01
+26669,251,Ashiq,Awais,Ashiq Awais,m,,,Allrounder,4,2001-01-01
 26672,251,Muhammad Zaka Ullah,Khan,Muhammad Zaka Ullah Khan,m,,,Allrounder,4,2001-01-01
 26675,251,Tahir,Mehmood,Tahir Mehmood,m,,,Batsman,1,2001-01-01
 26678,251,Hamza,Mohammad,Hamza Mohammad,m,,,Batsman,1,2001-01-01
@@ -9330,11 +9330,11 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 27092,153732,Chetan,Kumar,Chetan Kumar,m,right-hand-bat,slow-left-arm-orthodox,Allrounder,4,1992-07-22
 27095,251,Sarvan,Singh,Sarvan Singh,m,,,Batsman,1,2001-01-01
 27098,251,Vishavjit,Singh,Vishavjit Singh,m,,,Batsman,1,2001-01-01
-27101,251,Zahid,Cheema,Zahid Cheema,m,,,Allrounder,4,2001-01-01
+27101,251,Zahid,Cheema,Zahid Cheema,m,right-hand-bat,right-arm-fast,Allrounder,4,1990-12-04
 27104,251,Sikander,Abbas,Sikander Abbas,m,,,Batsman,1,2001-01-01
 27107,251,Bilal,Aslam,Bilal Aslam,m,,,Batsman,1,2001-01-01
 27110,251,Abdul,Wahab,Abdul Wahab,m,,,Batsman,1,2001-01-01
-27113,251,Shahzad,Sarwar,Shahzad Sarwar,m,,,Batsman,1,2001-01-01
+27113,251,Shahzad,Sarwar,Shahzad Sarwar,m,right-hand-bat,,Batsman,1,1983-03-06
 27116,251,Jawad,Sarwar,Jawad Sarwar,m,,,Wicketkeeper,3,2001-01-01
 27119,251,Suliman,Hakimi,Suliman Hakimi,m,,,Bowler,2,2001-01-01
 27122,251,Sadam,Hussain,Sadam Hussain,m,,,Bowler,2,2001-01-01
@@ -9343,24 +9343,24 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 27131,251,Malik Fahad,Baqar,Malik Fahad Baqar,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1982-10-15
 27134,251,Bilal,Hamid,Bilal Hamid,m,,,Batsman,1,2001-01-01
 27137,251,Qasim,Muhammad,Qasim Muhammad,m,,,Wicketkeeper,3,1996-03-05
-27140,251,Zain,Naqvi,Zain Naqvi,m,,,Batsman,1,2001-01-01
+27140,52126,Zain,Naqvi,Zain Naqvi,m,right-hand-bat,right-arm-fast-medium,Batsman,1,2002-01-02
 27143,251,Ammar,Rasool,Ammar Rasool,m,,,Bowler,2,2001-01-01
 27146,251,Arslan,Shahid,Arslan Shahid,m,,,Wicketkeeper,3,2001-01-01
 27149,251,Amir,Sharif,Amir Sharif,m,right-hand-bat,right-arm-fast,Allrounder,4,1992-06-08
 27152,251,Hassan,Taseer,Hassan Taseer,m,,,Wicketkeeper,3,2001-01-01
 27155,251,Hameed,Farhan,Hameed Farhan,m,,,Wicketkeeper,3,2001-01-01
-27158,251,Ashan,Ranasinghe,Ashan Ranasinghe,m,,,Allrounder,4,2001-01-01
+27158,38404,Ashan,Ranasinghe,Ashan Ranasinghe,m,right-hand-bat,left-arm-fast-medium,Allrounder,4,1988-08-05
 27161,251,Roshan,Silva,Roshan Silva,m,,,Allrounder,4,2001-01-01
 27164,251,Lakshman,Herath,Lakshman Herath,m,,,Allrounder,4,2001-01-01
 27167,251,Shehan,Tissera,Shehan Tissera,m,,,Allrounder,4,2001-01-01
 27170,251,Damian,Fernando,Damian Fernando,m,,,Wicketkeeper,3,2001-01-01
-27173,38404,Trishan,Aruma Nimesh,Trishan Aruma Nimesh,m,,,Allrounder,4,1999-04-15
+27173,38404,Trishan,Aruma Nimesh Silva,Trishan Aruma Nimesh Silva,m,left-hand-bat,,Batsman,1,1999-04-15
 27176,251,Sasidu,Divyanja,Sasidu Divyanja,m,,,Bowler,2,2001-01-01
 27179,251,Shihan,Perera,Shihan Perera,m,,,Wicketkeeper,3,2001-01-01
 27182,38404,Ravindu,Senevirathna Thilanka,Ravindu Senevirathna Thilanka,m,right-hand-bat,,Allrounder,4,1993-12-28
 27185,251,Shehan,Perera,Shehan Perera,m,,,Allrounder,4,2001-01-01
 27188,251,Ali,Haseeb,Ali Haseeb,m,,,Bowler,2,2001-01-01
-27191,251,Dineth,Nishanka,Dineth Nishanka,m,,,Bowler,2,2001-01-01
+27191,251,Dineth,Hettiarachchige,Dineth Hettiarachchige,m,right-hand-bat,,Allrounder,4,2004-09-24
 27194,38404,Tharidu,Hirtina Heshan,Tharidu Hirtina Heshan,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1986-12-25
 27197,251,Stephen,Jayasekara,Stephen Jayasekara,m,,,Allrounder,4,2001-01-01
 27200,251,Sudesh,Perera,Sudesh Perera,m,,,Allrounder,4,2001-01-01
@@ -9371,7 +9371,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 27215,251,Niyon,Perera,Niyon Perera,m,,,Allrounder,4,2001-01-01
 27218,38404,Yommerengna Suresh,Silva,Yommerengna Suresh Silva,m,,,Batsman,1,1999-04-15
 27221,251,Waruna,Mahendra,Waruna Mahendra,m,,,Allrounder,4,2001-01-01
-27224,251,Gayan,Silva,Gayan Silva,m,,,Allrounder,4,2001-01-01
+27224,38404,Gayan,Silva,Gayan Silva,m,left-hand-bat,slow-left-arm-orthodox,Allrounder,4,1982-02-23
 27227,251,Vijay Kumar,Wartia,Vijay Kumar Wartia,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1994-09-07
 27230,251,Ajay,Kumar,Ajay Kumar,m,right-hand-bat,,Batsman,1,1993-12-09
 27233,251,Jasvir,Kumar,Jasvir Kumar,m,right-hand-bat,right-arm-fast,Bowler,2,1995-12-10
@@ -9381,7 +9381,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 27245,251,Jatin,Sahib,Jatin Sahib,m,,,Bowler,2,2001-01-01
 27248,251,Athisham,Sajjad,Athisham Sajjad,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1996-12-30
 27251,251,Anmol,Singh,Anmol Singh,m,,,Batsman,1,2001-01-01
-27254,251,Bunty,Singh,Bunty Singh,m,,,Bowler,2,2001-01-01
+27254,251,Bunty,Singh,Bunty Singh,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1995-10-20
 27257,251,Shahroze,Usman,Shahroze Usman,m,,,Bowler,2,2001-01-01
 27260,251,Muhammad,Zaki,Muhammad Zaki,m,,,Bowler,2,2001-01-01
 27263,251,Bharti,Bangar,Bharti Bangar,m,left-hand-bat,right-arm-fast-medium,Bowler,2,2002-01-05
@@ -9510,12 +9510,12 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 27644,251,Kuljinder,Singh,Kuljinder Singh,m,,,Allrounder,4,2001-01-01
 27647,251,Usman,Talib,Usman Talib,m,,,Batsman,1,2001-01-01
 27650,251,Rashid,Umar,Rashid Umar,m,,,Bowler,2,2001-01-01
-27653,251,Ahmadullah,Safi,Ahmadullah Safi,m,,,Bowler,2,2001-01-01
+27653,43444,Ahmadullah,Safi,Ahmadullah Safi,m,left-hand-bat,left-arm-fast,Bowler,2,1994-05-01
 27656,251,Mohammad,Afzal,Mohammad Afzal,m,,,Bowler,2,2001-01-01
-27659,251,Shazad,Ahmed,Shazad Ahmed,m,,,Batsman,1,2001-01-01
-27662,251,Farhad,Ali,Farhad Ali,m,,,Allrounder,4,2001-01-01
+27659,251,Shazad,Ahmed,Shazad Ahmed,m,right-hand-bat,legbreak-googly,Batsman,1,1996-05-11
+27662,1796,Farhad,Ali,Farhad Ali,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1994-07-20
 27665,251,Basit,Ali,Basit Ali,m,,,Batsman,1,2001-01-01
-27668,251,Ateeq,Khan,Ateeq Khan,m,,,Wicketkeeper,3,2001-01-01
+27668,251,Ateeq,Khan,Ateeq Khan,m,right-hand-bat,,Wicketkeeper,3,1996-04-10
 27671,251,Hasnain,Mirza,Hasnain Mirza,m,,,Wicketkeeper,3,2001-01-01
 27674,251,Nasir,Ramzan,Nasir Ramzan,m,right-hand-bat,right-arm-fast-medium,Wicketkeeper,3,1996-10-01
 27680,251,Lovepreet,Singh,Lovepreet Singh,m,,,Allrounder,4,2000-01-01
@@ -9536,7 +9536,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 27728,251,Rizwan Uz,Zaman,Rizwan Uz Zaman,m,right-hand-bat,right-arm-fast,Allrounder,4,1986-02-23
 27731,251,Hamza,Zia,Hamza Zia,m,,,Bowler,2,2001-01-01
 27734,251,Dilawar,Hussain,Dilawar Hussain,m,right-hand-bat,,Batsman,1,1994-07-08
-27737,251,Haseeb,Abdul,Haseeb Abdul,m,,,Allrounder,4,2001-01-01
+27737,251,Haseeb,Abdul,Haseeb Abdul,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1995-11-07
 27740,251,Israr,Omarkhail,Israr Omarkhail,m,,,Bowler,2,2001-01-01
 27743,20,Kuppuswamy,Niranjankumar,Kuppuswamy Niranjankumar,m,,,Allrounder,4,2001-01-01
 27749,251,Atif,Mehmood,Atif Mehmood,m,,,Bowler,2,2000-01-01
@@ -9567,13 +9567,13 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 27827,43444,Asif,Zazai,Asif Zazai,m,right-hand-bat,,Wicketkeeper,3,1997-09-09
 27830,143,Shahid,Khalil,Shahid Khalil,m,,,Batsman,1,2001-01-01
 27833,143,Muhammad,Ashfaq,Muhammad Ashfaq,m,,,Bowler,2,2001-01-01
-27836,143,Zayed,Shahid,Zayed Shahid,m,,,Batsman,1,2001-01-01
+27836,155043,Zayed,Shahid,Zayed Shahid,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1983-12-25
 27839,52126,Tauqir,Asif,Tauqir Asif,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1986-07-11
 27842,143,Sharif,Khan,Sharif Khan,m,,,Allrounder,4,2001-01-01
 27845,143,Shamim,Mohammad,Shamim Mohammad,m,,,Allrounder,4,2001-01-01
 27848,143,Shahdath,Khan,Shahdath Khan,m,,,Wicketkeeper,3,2001-01-01
 27851,143,Nasir,Ahmed,Nasir Ahmed,m,,,Wicketkeeper,3,2001-01-01
-27854,143,Rahat,Shahid,Rahat Shahid,m,,,Bowler,2,2001-01-01
+27854,155043,Rahat,Shahid,Rahat Shahid,m,right-hand-bat,right-arm-fast,Allrounder,4,1990-07-04
 27857,143,Nazrul,Zaman,Nazrul Zaman,m,,,Allrounder,4,2001-01-01
 27860,143,Saddam,Hussain,Saddam Hussain,m,,,Allrounder,4,2001-01-01
 27863,143,Rafat,Islam,Rafat Islam,m,,,Batsman,1,2001-01-01
@@ -9593,7 +9593,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 27905,143,Daniel,Eckstein,Daniel Eckstein,m,,,Allrounder,4,2001-01-01
 27908,143,Ally,Deny,Ally Deny,m,,,Bowler,2,2001-01-01
 27911,143,Junaid,Syed,Junaid Syed,m,left-hand-bat,right-arm-fast-medium,Bowler,2,1991-12-07
-27914,143,Shakil,Khan,Shakil Khan,m,,,Allrounder,4,2001-01-01
+27914,143,Shakil,Khan,Shakil Khan,m,right-hand-bat,right-arm-fast-medium,Bowling Allrounder,11,1990-02-10
 27917,143,Jayaprakash,Arukkutty,Jayaprakash Arukkutty,m,,,Bowler,2,2001-01-01
 27920,143,Saurabh,Luthra,Saurabh Luthra,m,,,Allrounder,4,2001-01-01
 27923,143,Harjeet,Singh,Harjeet Singh,m,,,Allrounder,4,2001-01-01
@@ -9602,21 +9602,21 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 27932,143,Ruhullah,Abdurahimzai,Ruhullah Abdurahimzai,m,,,Allrounder,4,2001-01-01
 27935,143,Khyber,Malyar,Khyber Malyar,m,,,Batsman,1,2001-01-01
 27938,143,Adel,Sherifullah,Adel Sherifullah,m,,,Batsman,1,2001-01-01
-27941,143,Abdul Rahman,Miralikhel,Abdul Rahman Miralikhel,m,,,Bowler,2,2001-01-01
+27941,143,Abdul Rahman,Miralikhel,Abdul Rahman Miralikhel,m,right-hand-bat,right-arm-fast,Bowler,2,2002-01-01
 27944,143,Ahmed,Zadran,Ahmed Zadran,m,,,Bowler,2,2001-01-01
 27947,143,Abdollah,Ahmed,Abdollah Ahmed,m,,,Allrounder,4,2001-01-01
 27950,143,Imdad,Mullah,Imdad Mullah,m,,,Wicketkeeper,3,2001-01-01
 27953,143,Mohammad,Safi,Mohammad Safi,m,,,Batsman,1,2001-01-01
-27956,143,Zaid,Miralikheil,Zaid Miralikheil,m,,,Wicketkeeper,3,2001-01-01
-27959,143,Shaukat,Saied,Shaukat Saied,m,,,Batsman,1,2001-01-01
+27956,43444,Zaid,Miakhel,Zaid Miakhel,m,right-hand-bat,,Wicketkeeper,3,1998-04-13
+27959,43444,Shoukat,Saied,Shoukat Saied,m,right-hand-bat,right-arm-fast,Batsman,1,1984-08-01
 27965,43444,Abdul,Rahman,Abdul Rahman,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,2000-12-17
-27968,143,Noura Khan,Rahimzai,Noura Khan Rahimzai,m,,,Batsman,1,2002-01-01
-27971,143,Obaidullah,Omari,Obaidullah Omari,m,,,Bowler,2,2002-01-01
+27968,43444,Noura,Khan Abdul Rahimzai,Noura Khan Abdul Rahimzai,m,right-hand-bat,,Batsman,1,1993-10-12
+27971,43444,Obaidullah,Omari,Obaidullah Omari,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1998-03-01
 27974,143,Rabani,Ahmadzai,Rabani Ahmadzai,m,,,Wicketkeeper,3,2002-01-01
 27977,143,Khan,Raoof,Khan Raoof,m,,,Bowler,2,2002-01-01
 27980,143,Soleimankhel,Habibullah,Soleimankhel Habibullah,m,,,Allrounder,4,2002-01-01
 27983,143,Khaybar,Safi,Khaybar Safi,m,,,Allrounder,4,2002-01-01
-27986,143,Hasib Mir,Alikhel,Hasib Mir Alikhel,m,,,Bowler,2,2002-01-01
+27986,43444,Hasibullah,Miralikhel,Hasibullah Miralikhel,m,right-hand-bat,right-arm-fast,Bowler,2,2004-01-01
 27989,143,Assadrehman,Naseri,Assadrehman Naseri,m,,,Bowler,2,2002-01-01
 27992,143,Ehsanullah,Marofkhel,Ehsanullah Marofkhel,m,,,Bowler,2,2002-01-01
 27995,143,Samali,Shinwari,Samali Shinwari,m,,,Batsman,1,2002-01-01
@@ -9624,20 +9624,20 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 28001,143,Soumyadeep,Banerjee,Soumyadeep Banerjee,m,,,Batsman,1,2002-01-01
 28004,143,Pankaj,Sharma,Pankaj Sharma,m,,,Allrounder,4,2002-01-01
 28007,143,Raul,Bedi,Raul Bedi,m,,,Batsman,1,2002-01-01
-28010,143,Wasif,Saluja,Wasif Saluja,m,,,Bowler,2,2002-01-01
+28010,143,Wasif,Saluja,Wasif Saluja,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1974-11-20
 28013,143,Usman,Afridi,Usman Afridi,m,,,Bowler,2,2001-01-01
 28016,143,Sahel,Ahmadzai,Sahel Ahmadzai,m,,,Bowler,2,2001-01-01
 28019,143,Abdul Nasir,Babakarkhail,Abdul Nasir Babakarkhail,m,,,Bowler,2,2001-01-01
-28022,143,Khan-Agha,Hamdard,Khan-Agha Hamdard,m,,,Bowler,2,2001-01-01
+28022,143,Khan-Agha,Hamdard,Khan-Agha Hamdard,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1993-07-27
 28025,143,Tariq,Ahmadzai,Tariq Ahmadzai,m,,,Allrounder,4,2001-01-01
 28028,143,Basheer,Ahamadzari,Basheer Ahamadzari,m,,,Allrounder,4,2001-01-01
 28031,143,Navidullah,Shigiwal,Navidullah Shigiwal,m,,,Allrounder,4,2001-01-01
 28034,143,Aminullah,Mushwani,Aminullah Mushwani,m,,,Batsman,1,2001-01-01
 28037,143,Dost,Mohamad,Dost Mohamad,m,,,Batsman,1,2001-01-01
-28040,143,Abdulwaseed,Basit,Abdulwaseed Basit,m,,,Bowler,2,2001-01-01
+28040,43444,Abdulwased,Basit,Abdulwased Basit,m,left-hand-bat,left-arm-fast-medium,Bowler,2,1989-01-01
 28043,143,Abas,Sediqi,Abas Sediqi,m,,,Allrounder,4,2001-01-01
 28046,143,Muhammad,Sadiq,Muhammad Sadiq,m,,,Wicketkeeper,3,2001-01-01
-28049,143,Zain,Mohammad,Zain Mohammad,m,,,Bowler,2,2001-01-01
+28049,32,Zain,Mohammad,Zain Mohammad,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1988-01-01
 28052,143,Ishaq,Safi,Ishaq Safi,m,,,Bowler,2,2001-01-01
 28055,143,Sahil,Zadran,Sahil Zadran,m,,,Bowler,2,2001-01-01
 28058,11,Ahmad Naveed,Mustafa,Ahmad Naveed Mustafa,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1998-02-16
@@ -9645,7 +9645,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 28064,143,Zabih,Wahidi,Zabih Wahidi,m,,,Wicketkeeper,3,2001-01-01
 28067,143,Momtaz,Tanha,Momtaz Tanha,m,,,Batsman,1,2001-01-01
 28070,43444,Omerkhel,Islamuddin,Omerkhel Islamuddin,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1991-04-23
-28073,143,Abdulhaq,Utamanzai Zakhel,Abdulhaq Utamanzai Zakhel,m,,,Bowler,2,2001-01-01
+28073,43444,Abdulhaq,Utamanzai Zakhel,Abdulhaq Utamanzai Zakhel,m,right-hand-bat,,Bowler,2,1986-01-02
 28076,143,Saadii,Cheema,Saadii Cheema,m,,,Allrounder,4,2001-01-01
 28079,143,Imran,Asif,Imran Asif,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1990-07-06
 28082,143,Baljinder,Singh,Baljinder Singh,m,,,Allrounder,4,2001-01-01
@@ -9664,7 +9664,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 28127,146,Michaela,Kirk,Michaela Kirk,f,right-hand-bat,right-arm-offbreak,Allrounder,4,1999-06-30
 28130,143,Kamran,Naeem,Kamran Naeem,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1986-03-04
 28133,143,Sam,Williams,Sam Williams,m,,,Allrounder,4,2001-01-01
-28136,143,Naveed,Sadiq,Naveed Sadiq,m,,,Allrounder,4,2001-01-01
+28136,52126,Naveed,Sadiq,Naveed Sadiq,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1977-09-08
 28139,20,MD Shofiqul,Islam,MD Shofiqul Islam,m,right-hand-bat,right-arm-fast,Allrounder,4,1997-01-01
 28142,143,Dav,Eckstein,Dav Eckstein,m,,,Allrounder,4,2001-01-01
 28145,143,Naveen,Prasad,Naveen Prasad,m,,,Bowler,2,2000-01-01
@@ -9680,7 +9680,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 28175,2325,Roy,Kaia,Roy Kaia,m,right-hand-bat,right-arm-offbreak,Allrounder,4,1991-10-10
 28178,20,Tahir,Mahmood,Tahir Mahmood,m,right-hand-bat,right-arm-fast,Allrounder,4,2001-07-19
 28187,52126,Imran,Naeem Goraya,Imran Naeem Goraya,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1978-06-07
-28190,98,Nandeep,Soggi,Nandeep Soggi,m,,,Bowler,2,2000-01-01
+28190,143,Nandeep,Soggi,Nandeep Soggi,m,right-hand-bat,,Bowler,2,1986-02-27
 28193,245,Ben,Smith,Ben Smith,m,,,Batsman,1,2001-01-01
 28196,245,Arshad,Hayat,Arshad Hayat,m,,,Allrounder,4,2001-01-01
 28199,245,Arshad,Ali,Arshad Ali,m,,,Allrounder,4,2001-01-01
@@ -9838,7 +9838,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 28664,11,Oascoroni,Ahamed,Oascoroni Ahamed,m,,,Allrounder,4,2001-01-01
 28667,11,Benjamin,Das,Benjamin Das,m,,,Allrounder,4,2001-01-01
 28670,11,Neeraj,Sharma,Neeraj Sharma,m,,,Allrounder,4,2001-01-01
-28673,11,Abdulmajeed,Ahmadzai,Abdulmajeed Ahmadzai,m,,,Allrounder,4,2001-01-01
+28673,11,Abdulmajeed,Ahmadzai,Abdulmajeed Ahmadzai,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1993-01-01
 28676,11,Vishal,Malik,Vishal Malik,m,,,Bowler,2,2001-01-01
 28679,11,Praveen,Ganesan,Praveen Ganesan,m,,,Allrounder,4,2001-01-01
 28682,11,Tobias,Brucklmeier,Tobias Brucklmeier,m,,,Batsman,1,2001-01-01
@@ -11442,7 +11442,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 33677,11,Wasantha,De silva,Wasantha De silva,m,,,Bowler,2,2000-01-01
 33680,862868,Nagraj,Singh,Nagraj Singh,m,,,Bowler,2,2000-01-01
 33683,143,Ahsan,Yousuf,Ahsan Yousuf,m,right-hand-bat,right-arm-fast,Allrounder,4,2001-01-01
-33686,251,Rajmani,Sandhu,Rajmani Sandhu,m,left-hand-bat,right-arm-fast,Allrounder,4,1995-10-14
+33686,251,Rajmani,Sandhu Singh,Rajmani Sandhu Singh,m,left-hand-bat,right-arm-fast,Allrounder,4,1995-10-14
 33689,116,Syed,Hussain,Syed Hussain,m,,,Allrounder,4,2001-01-01
 33692,116,Ruwan,Arachchilage,Ruwan Arachchilage,m,right-hand-bat,right-arm-offbreak,Bowler,2,1980-12-10
 33695,116,Azan,Baig,Azan Baig,m,left-hand-bat,right-arm-fast-medium,Allrounder,4,1989-01-19
@@ -11556,7 +11556,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 34058,266,Zoran,Dragun,Zoran Dragun,m,,,Allrounder,4,2001-01-01
 34061,98,Claire,Moore,Claire Moore,f,right-hand-bat,,Batsman,1,2004-01-01
 34064,116,Amit,Patel,Amit Patel,m,,,Bowler,2,2000-01-01
-34067,266,Adrian,Dunbar,Adrian Dunbar,m,,,Batsman,1,2000-01-01
+34067,296,Adrian,Dunbar,Adrian Dunbar,m,right-hand-bat,,Batsman,1,1990-01-02
 34070,153732,George,Anthikkadu,George Anthikkadu,m,right-hand-bat,,Allrounder,4,1996-02-15
 34073,3374,Kieron,Ferrary,Kieron Ferrary,m,right-hand-bat,right-arm-offbreak,Wicketkeeper,3,1989-06-08
 34076,3374,Morgan,Peters,Morgan Peters,m,,,Bowler,2,1980-01-01
@@ -11612,7 +11612,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 34226,251,Zulqarnain,Ali,Zulqarnain Ali,m,,,Bowler,2,0000-00-00
 34229,251,Muzaifa,Muhammad,Muzaifa Muhammad,m,,,Bowler,2,0000-00-00
 34232,251,Sarbjit,Singh,Sarbjit Singh,m,,,Batsman,1,0000-00-00
-34235,251,Manjeet,Singh,Manjeet Singh,m,,,Batsman,1,0000-00-00
+34235,153732,Manjeet,Singh,Manjeet Singh,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1983-08-10
 34238,52126,Muhammad,Asif,Muhammad Asif,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1979-03-10
 34241,251,Biplob,Miah,Biplob Miah,m,,,Bowler,2,2000-01-01
 34244,251,Mazibur,Sharif,Mazibur Sharif,m,,,Bowler,2,2000-01-01
@@ -12720,7 +12720,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 37607,52126,Zaigham,Butt,Zaigham Butt,m,right-hand-bat,left-arm-fast-medium,Wicketkeeper,3,1995-03-28
 37610,52126,Zain,Mustafa,Zain Mustafa,m,right-hand-bat,right-arm-fast,Bowler,2,2001-11-25
 37613,224,Rahul,Sarda,Rahul Sarda,m,,,Bowler,2,2000-01-01
-37616,153732,Harshit,Kaushik Rana,Harshit Kaushik Rana,m,right-hand-bat,right-arm-fast-medium,Bowler,2,2001-12-22
+37616,153732,Harshit,Pradeep Rana,Harshit Pradeep Rana,m,right-hand-bat,right-arm-fast-medium,Bowler,2,2001-12-22
 37619,153732,Ankush,Sharma,Ankush Sharma,m,right-hand-bat,,Bowler,2,1993-09-06
 37622,462,Henry,Hamilton,Henry Hamilton,m,right-hand-bat,right-arm-fast-medium,Batsman,1,2001-08-14
 37625,153732,Kalimuthu,Manimaran,Kalimuthu Manimaran,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1987-05-25
@@ -13210,11 +13210,11 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 39095,2405,Muhammad,Shoaib,Muhammad Shoaib,m,right-hand-bat,right-arm-fast-medium,Bowler,2,2000-01-01
 39098,14566098,Graham,Hume,Graham Hume,m,left-hand-bat,right-arm-fast-medium,Bowler,2,1990-11-23
 39101,143,Ganesh,Sekhar,Ganesh Sekhar,m,,,Bowler,2,1988-09-15
-39104,143,Gill,Shamsher,Gill Shamsher,m,,,Allrounder,4,1987-12-10
+39104,153732,Gill,Shamsher Singh,Gill Shamsher Singh,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1987-12-10
 39107,143,Inzirgul,Ahmadzai,Inzirgul Ahmadzai,m,,,Allrounder,4,1984-01-01
 39110,143,Khitab,Omari,Khitab Omari,m,,,Allrounder,4,2004-02-10
 39113,143,Abuseen,Dostahil,Abuseen Dostahil,m,,,Bowler,2,2000-03-15
-39116,143,Adnannaser,Naseri,Adnannaser Naseri,m,,,Batsman,1,1997-01-01
+39116,43444,Adnannaser,Naseri,Adnannaser Naseri,m,right-hand-bat,right-arm-fast,Allrounder,4,1997-01-01
 39119,143,Hannan,Mahmood,Hannan Mahmood,m,,,Bowler,2,2005-07-13
 39122,143,Mohamad,Naseri,Mohamad Naseri,m,,,Allrounder,4,1997-08-06
 39125,143,Rohail,Naeem,Rohail Naeem,m,,,Allrounder,4,2006-02-03
@@ -13313,10 +13313,10 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 39416,251,Noman,Muhammad,Noman Muhammad,m,,,Wicketkeeper,3,1995-09-26
 39419,251,Shahid,Waseem,Shahid Waseem,m,,,Batsman,1,1984-01-01
 39422,251,Bilal,Hussain,Bilal Hussain,m,right-hand-bat,right-arm-fast,Batsman,1,1987-10-30
-39425,251,Haider,Ali,Haider Ali,m,,,Bowler,2,2006-02-10
+39425,52126,Ali,Haider,Ali Haider,m,right-hand-bat,right-arm-fast,Bowler,2,2006-02-10
 39428,251,Imran,Muhammad,Imran Muhammad,m,right-hand-bat,,Batsman,1,1979-12-19
 39431,52126,Javed,Mahash,Javed Mahash,m,right-hand-bat,,Bowler,2,1992-08-23
-39434,251,Shoaib,Amjad,Shoaib Amjad,m,,,Batsman,1,1985-05-01
+39434,48946,Ali Shoaib,Amjad,Ali Shoaib Amjad,m,right-hand-bat,,Batsman,1,1985-05-01
 39440,52126,Sikandar,Abbas,Sikandar Abbas,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1988-01-22
 39443,52126,Taseer,Hassan,Taseer Hassan,m,right-hand-bat,,Wicketkeeper,3,1999-07-04
 39446,251,Hirun,Fernando,Hirun Fernando,m,,,Bowler,2,2002-01-23
@@ -13438,7 +13438,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 39800,2325,John,Masara,John Masara,m,right-hand-bat,legbreak,Bowler,2,1991-08-16
 39803,153732,Vignesh,Iyer,Vignesh Iyer,m,,,Batsman,1,2000-01-01
 39806,153732,Rithik,Easwaran,Rithik Easwaran,m,,,Batsman,1,2000-01-01
-39809,143,Habib,Ahmadzai,Habib Ahmadzai,m,right-hand-bat,right-arm-fast,Allrounder,4,2001-01-01
+39809,143,Habib,Ahmadzai,Habib Ahmadzai,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1993-03-15
 39812,245,Sonny,Clephane,Sonny Clephane,m,,,Bowler,2,2000-01-01
 39815,462,Jessica,Olorenshaw,Jessica Olorenshaw,f,right-hand-bat,right-arm-fast,Allrounder,4,2000-01-01
 39818,52126,Adeel,Ahmed,Adeel Ahmed,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1996-03-12
@@ -13503,7 +13503,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 39998,52126,Hamza,Sagheer,Hamza Sagheer,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1995-09-09
 40001,462,Jack,Berrisford,Jack Berrisford,m,left-hand-bat,,Bowler,2,1989-09-01
 40004,52126,Jawad,Ahmed,Jawad Ahmed,m,left-hand-bat,left-arm-fast-medium,Bowler,2,1990-04-07
-40007,43444,Karzai,Maroofkhel,Karzai Maroofkhel,m,right-hand-bat,right-arm-fast,Bowler,2,2004-01-01
+40007,43444,Maroofkhel,Karzai,Maroofkhel Karzai,m,right-hand-bat,right-arm-fast,Bowler,2,2004-01-01
 40010,251,Masood,Asghar,Masood Asghar,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1992-04-18
 40013,52126,Muhammad,Kashif,Muhammad Kashif,m,left-hand-bat,left-arm-fast,Bowler,2,1997-01-07
 40016,52126,Qamar,Razzaq,Qamar Razzaq,m,right-hand-bat,right-arm-offbreak,Batsman,1,1997-12-15
@@ -13603,7 +13603,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 40298,155043,Shagor,Choquder,Shagor Choquder,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1998-12-06
 40301,155043,Shamol,Mia,Shamol Mia,m,right-hand-bat,,Allrounder,4,1997-03-25
 40304,155043,Zahid,Hossain,Zahid Hossain,m,right-hand-bat,,Batsman,1,2004-04-25
-40307,251,Hamza,Ali,Hamza Ali,m,,,Bowler,2,2000-01-01
+40307,251,Hamza,Ali,Hamza Ali,m,,,Allrounder,4,2001-09-16
 40310,251,Ohidur,Rahman,Ohidur Rahman,m,,,Bowler,2,2000-01-01
 40313,251,Rooshan,Butt,Rooshan Butt,m,,,Bowler,2,2000-01-01
 40316,153732,Kumar,Pazhani,Kumar Pazhani,m,right-hand-bat,right-arm-fast,Allrounder,4,2001-01-01
@@ -14324,7 +14324,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 42494,155043,Neeyamur,Rashid,Neeyamur Rashid,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1975-01-01
 42497,556,Javed,Oryakhial,Javed Oryakhial,m,,,Bowler,2,2000-01-01
 42500,556,Ahmadzai,khan,Ahmadzai khan,m,,,Bowler,2,2000-01-01
-42503,143,Samargol,Messalhn,Samargol Messalhn,m,,,Bowler,2,2000-01-01
+42503,43444,Samargol,Messalhn,Samargol Messalhn,m,right-hand-bat,right-arm-fast-medium,Batsman,1,2001-01-01
 42506,155043,Sahadat,Sagor,Sahadat Sagor,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1977-01-14
 42509,14566098,John,Matchett,John Matchett,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1997-07-22
 42512,14566098,Jared,Wilson,Jared Wilson,m,,,Batsman,1,2000-01-01
@@ -14354,7 +14354,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 42587,52126,Taimoor,Sultan,Taimoor Sultan,m,right-hand-bat,,Batsman,1,1994-12-04
 42590,52126,Rehan,Afridi,Rehan Afridi,m,right-hand-bat,,Wicketkeeper,3,1992-05-10
 42593,462,Jessica,Woolston,Jessica Woolston,m,,,Bowler,2,2000-01-01
-42596,462,Maddie,Blinkhorn-Jones,Maddie Blinkhorn-Jones,m,,,Batsman,1,2000-01-01
+42596,462,Maddie,Blinkhorn-Jones,Maddie Blinkhorn-Jones,f,,,Batsman,1,2000-01-01
 42599,24150873,Navin,Stewart,Navin Stewart,m,right-hand-bat,right-arm-fast,Bowler,2,1983-06-13
 42602,320,Adam,Leigh,Adam Leigh,m,right-hand-bat,right-arm-fast,Bowler,2,2003-08-07
 42605,320,Altamish,Durrani,Altamish Durrani,m,right-hand-bat,,Batsman,1,1999-01-20
@@ -14546,7 +14546,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 43169,266,Akshay,Daxini,Akshay Daxini,m,,,Batsman,1,1983-10-23
 43172,266,Anil,Balhera,Anil Balhera,m,,,Allrounder,4,1987-05-04
 43175,266,Annu,Mann,Annu Mann,m,,,Batsman,1,1990-06-18
-43178,266,Bharath,Gowda,Bharath Gowda,m,,,Batsman,1,1992-12-24
+43178,153732,Bharath,Gowda,Bharath Gowda,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1992-12-24
 43181,266,David,Zizic,David Zizic,m,,,Wicketkeeper,3,1975-12-06
 43184,266,Eugene,Jones,Eugene Jones,m,,,Batsman,1,1972-11-29
 43187,266,Gourav,Dabria,Gourav Dabria,m,,,Allrounder,4,1996-07-31
@@ -14562,7 +14562,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 43217,266,Sahil,Thakur,Sahil Thakur,m,,,Batsman,1,1992-03-01
 43220,266,Simranjeet,Singh,Simranjeet Singh,m,,,Bowler,2,1994-05-26
 43223,266,Vikram,Singh,Vikram Singh,m,,,Batsman,1,1995-04-13
-43226,266,Yogesh,Belage,Yogesh Belage,m,,,Allrounder,4,1993-10-25
+43226,153732,Yogesh,Belage,Yogesh Belage,m,right-hand-bat,,Batsman,1,1993-10-25
 43229,266,Abdul,Hassan,Abdul Hassan,m,,,Allrounder,4,1988-08-30
 43232,266,Amar,Singh,Amar Singh,m,,,Batsman,1,1974-04-20
 43235,266,Ghani,Khan,Ghani Khan,m,,,Bowler,2,1993-08-15
@@ -14577,7 +14577,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 43262,266,Amit,Grover,Amit Grover,m,,,Allrounder,4,1979-12-27
 43265,266,Braithyn,Pecic,Braithyn Pecic,m,,,Wicketkeeper,3,2005-11-09
 43268,266,Mandar,Sardesai,Mandar Sardesai,m,,,Batsman,1,1986-02-12
-43271,266,Mike,Jones,Mike Jones,m,,,Batsman,1,1983-04-16
+43271,462,Mike,Jones,Mike Jones,m,right-hand-bat,,Batsman,1,1983-04-16
 43274,266,Sumit,Meena,Sumit Meena,m,,,Allrounder,4,1992-11-01
 43277,38404,Ruwantha,Kellepotha,Ruwantha Kellepotha,m,right-hand-bat,legbreak,Bowler,2,1991-07-13
 43280,146,Renaldo,Meyer,Renaldo Meyer,m,left-hand-bat,right-arm-fast-medium,Bowler,2,1994-06-30
@@ -15392,7 +15392,7 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 45746,35185,Joshua,Lawrenson,Joshua Lawrenson,m,,,Batsman,1,2000-01-01
 45749,35185,Stan,Norman,Stan Norman,m,,,Batsman,1,2000-01-01
 45752,35185,Toby,Britton,Toby Britton,m,,,Bowler,2,2006-07-25
-45755,35185,Arjun,Dhiman,Arjun Dhiman,m,,,Batsman,1,2000-01-01
+45755,153732,Arjun,Dhiman,Arjun Dhiman,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1992-06-20
 45758,224,Prashant,Verma,Prashant Verma,m,,,Bowler,2,2000-01-01
 45761,2756,Chandrakant,Desai,Chandrakant Desai,m,,,Bowler,2,1986-11-15
 45764,153732,Jaspal,Singh,Jaspal Singh,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1986-10-17
@@ -15466,11 +15466,11 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 45974,153732,Lalit,Punjabi,Lalit Punjabi,m,right-hand-bat,,Allrounder,4,1984-10-12
 45977,153732,Akash,Madhwal,Akash Madhwal,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1993-11-25
 45980,153732,Mohit,Rathee,Mohit Rathee,m,right-hand-bat,legbreak-googly,Allrounder,4,1999-01-13
-45983,153732,Himanshu,Sharma,Himanshu Sharma,m,left-hand-bat,slow-left-arm-orthodox,Bowler,2,1995-09-11
+45983,153732,Himanshu,Sharma,Himanshu Sharma,m,left-hand-bat,slow-left-arm-orthodox,Allrounder,4,1995-09-11
 45986,153732,Avinash,Singh,Avinash Singh,m,,,Bowler,2,2000-01-01
-45989,153732,Rajan,Kumar,Rajan Kumar,m,left-hand-bat,left-arm-fast-medium,Bowler,2,1996-07-08
+45989,153732,Rajan,Kumar,Rajan Kumar,m,left-hand-bat,left-arm-fast-medium,Allrounder,4,1996-07-08
 45992,153732,Upendra,Yadav,Upendra Yadav,m,right-hand-bat,right-arm-offbreak,Wicketkeeper,3,1996-10-08
-45995,153732,Vivrant,Sharma,Vivrant Sharma,m,left-hand-bat,legbreak-googly,Allrounder,4,1999-10-30
+45995,153732,Vivrant,Sharma,Vivrant Sharma,m,left-hand-bat,legbreak-googly,Batsman,1,1999-10-30
 45998,98,Blake,Macdonald,Blake Macdonald,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1998-02-23
 46001,98,Ryan,Hadley,Ryan Hadley,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1998-11-17
 46004,155,Rajith,Puthen,Rajith Puthen,m,,,Bowler,2,1977-06-28
@@ -15834,3 +15834,366 @@ ID,country_id,firstname,lastname,fullname,gender,battingstyle,bowlingstyle,playe
 47099,251,Qasim,Qureshi,Qasim Qureshi,m,,,Bowler,2,2006-08-07
 47102,153732,Sukhwinder,Singh,Sukhwinder Singh,m,right-hand-bat,,Batsman,1,1995-10-21
 47105,213955,Abdul,Bhadelia,Abdul Bhadelia,m,,,Batting Allrounder,14,2000-01-01
+47108,251,Ammy,Nirman,Ammy Nirman,m,,,Bowler,2,1995-08-08
+47111,251,Anmol,Singh,Anmol Singh,m,right-hand-bat,,Batsman,1,1998-06-20
+47114,251,Singh,Hardeep,Singh Hardeep,m,,,Allrounder,4,1992-09-23
+47117,2325,Chipo,Mugeri-Tiripano,Chipo Mugeri-Tiripano,f,left-hand-bat,right-arm-fast-medium,Allrounder,4,1992-03-02
+47120,2325,Mary-Anne,Musonda,Mary-Anne Musonda,f,left-hand-bat,right-arm-offbreak,Batsman,1,1991-04-08
+47123,2325,Sharne,Mayers,Sharne Mayers,f,right-hand-bat,right-arm-offbreak,Batsman,1,1992-07-19
+47126,2325,Ashley,Ndiraya,Ashley Ndiraya,m,left-hand-bat,legbreak-googly,Batsman,1,1992-07-06
+47129,2325,Christabel,Chatonzwa,Christabel Chatonzwa,f,right-hand-bat,right-arm-offbreak,Bowler,2,1990-04-23
+47132,2325,Josephine,Nkomo,Josephine Nkomo,f,right-hand-bat,right-arm-fast-medium,Allrounder,4,1997-05-21
+47135,2325,Precious,Marange,Precious Marange,f,left-hand-bat,right-arm-fast-medium,Bowler,2,1982-11-26
+47138,2325,Modester,Mupachikwa,Modester Mupachikwa,f,right-hand-bat,,Wicketkeeper,3,1997-01-19
+47141,2325,Pellagia,Mujaji,Pellagia Mujaji,f,right-hand-bat,right-arm-fast-medium,Wicketkeeper,3,1991-10-09
+47144,2325,Audrey,Mazvishaya,Audrey Mazvishaya,f,right-hand-bat,right-arm-fast-medium,Bowler,2,1993-03-09
+47147,2325,Francisca,Chipare,Francisca Chipare,f,right-hand-bat,right-arm-fast-medium,Allrounder,4,1998-10-01
+47150,2325,Loreen,Tshuma,Loreen Tshuma,f,right-hand-bat,right-arm-fast-medium,Allrounder,4,1996-11-27
+47153,2568,Loryn,Phiri,Loryn Phiri,f,right-hand-bat,right-arm-offbreak,Bowling Allrounder,11,1998-11-04
+47156,2325,Nomvelo,Sibanda,Nomvelo Sibanda,f,right-hand-bat,left-arm-fast-medium,Bowler,2,1996-11-21
+47159,251,Atta,Ullah,Atta Ullah,m,right-hand-bat,right-arm-fast,Allrounder,4,1997-12-10
+47162,52126,Imran,Muhammad,Imran Muhammad,m,right-hand-bat,,Allrounder,4,1983-01-04
+47165,251,Luqman,Amjad,Luqman Amjad,m,,,Bowler,2,1998-08-31
+47168,52126,Muhammad,Kamran,Muhammad Kamran,m,right-hand-bat,right-arm-fast,Bowler,2,1993-01-18
+47171,251,Naqash,Raza,Naqash Raza,m,,,Allrounder,4,1991-06-28
+47174,52126,Sarwar,Bilal,Sarwar Bilal,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1988-12-09
+47177,251,Shoaib,Malik,Shoaib Malik,m,,,Batsman,1,2000-09-27
+47180,251,Fraz,Raza,Fraz Raza,m,,,Bowler,2,1996-12-20
+47183,251,Inderjit,Gill,Inderjit Gill,m,,,Allrounder,4,2008-11-07
+47186,251,Kanwaljot,Singh,Kanwaljot Singh,m,,,Allrounder,4,1992-04-26
+47189,52126,Noman,Ali,Noman Ali,m,right-hand-bat,right-arm-fast-medium,Bowler,2,2000-02-03
+47192,153732,Sarbjit,Singh,Sarbjit Singh,m,right-hand-bat,right-arm-fast-medium,Wicketkeeper,3,1988-04-11
+47195,251,Soumi,Ryder,Soumi Ryder,m,,,Batsman,1,1995-10-19
+47198,52126,Habib,Ullah,Habib Ullah,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1997-02-01
+47201,251,Asif,Mushtaq,Asif Mushtaq,m,,,Allrounder,4,1996-04-09
+47204,251,Fiaz,Ahmed,Fiaz Ahmed,m,right-hand-bat,,Batsman,1,2000-01-01
+47207,251,Habib,ul Rahman,Habib ul Rahman,m,,,Allrounder,4,2000-08-12
+47210,251,Kashif,Mushtaq,Kashif Mushtaq,m,,,Batsman,1,1996-04-09
+47213,251,Muhammad,Afzal,Muhammad Afzal,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1982-08-28
+47216,251,Paramjit,Singh,Paramjit Singh,m,,,Bowler,2,2000-01-01
+47219,251,Rizwan,Siddiq,Rizwan Siddiq,m,,,Allrounder,4,1999-12-10
+47222,251,Suqrat,Khizar,Suqrat Khizar,m,,,Batsman,1,1988-10-14
+47225,251,Alex,Cristian,Alex Cristian,m,,,Allrounder,4,2004-03-24
+47228,251,Fahad,Muhammad,Fahad Muhammad,m,,,Allrounder,4,2002-03-05
+47231,251,Kudamaduwage,Sanjeewa,Kudamaduwage Sanjeewa,m,,,Allrounder,4,1985-12-27
+47234,32,Suresh,Silva,Suresh Silva,m,,,Batsman,1,2000-01-01
+47237,32,Trishan,Silva,Trishan Silva,m,,,Bowler,2,2000-01-01
+47240,251,Shehzad,Islam,Shehzad Islam,m,,,Batsman,1,1986-05-20
+47243,52126,Adeel,Ahmed,Adeel Ahmed,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1994-01-01
+47246,251,Bilal,Saeed,Bilal Saeed,m,,,Allrounder,4,1998-11-01
+47249,251,Chaudhry,Adeel,Chaudhry Adeel,m,,,Allrounder,4,1989-07-13
+47252,251,Mirza,Baig,Mirza Baig,m,,,Allrounder,4,1999-08-02
+47255,251,Tazeem,Khalid,Tazeem Khalid,m,,,Batsman,1,1993-07-17
+47258,251,Amandeep,Singh,Amandeep Singh,m,,,Bowler,2,2000-01-01
+47261,251,Khawar,Aslam,Khawar Aslam,m,,,Batsman,1,1993-03-12
+47264,251,Manjinder,Singh,Manjinder Singh,m,,,Bowler,2,1996-02-03
+47267,251,Shishir,Hossain,Shishir Hossain,m,,right-arm-fast-medium,Allrounder,4,2004-05-03
+47270,251,Sufian,Ali,Sufian Ali,m,,,Bowler,2,2000-02-05
+47273,155043,Sultana,Khatun,Sultana Khatun,f,right-hand-bat,,Batsman,1,2000-01-01
+47276,38404,Kawya,Kavindi,Kawya Kavindi,f,right-hand-bat,right-arm-fast-medium,Allrounder,4,2002-10-30
+47282,21462,Clinto,Velookkaran Anto,Clinto Velookkaran Anto,m,right-hand-bat,,Batsman,1,1994-06-22
+47285,52126,Mohammad,Arslan,Mohammad Arslan,m,right-hand-bat,right-arm-offbreak,Allrounder,4,1990-10-25
+47288,251,Azeem,Gulzar,Azeem Gulzar,m,right-hand-bat,right-arm-fast,Allrounder,4,2001-01-01
+47291,3374,Bryan,Zammit,Bryan Zammit,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1990-01-24
+47294,462,Jonathan,West,Jonathan West,m,right-hand-bat,right-arm-fast-medium,Wicketkeeper,3,1981-05-16
+47297,3374,Kabir,Mirpuri,Kabir Mirpuri,m,right-hand-bat,right-arm-fast,Bowler,2,1987-11-27
+47300,251,Yuvraj,Vashi,Yuvraj Vashi,m,right-hand-bat,,Allrounder,4,2002-03-06
+47303,143,Abdulwafi,Qazizada,Abdulwafi Qazizada,m,,,Bowler,2,1999-01-01
+47306,43444,Bashir,Ahmad,Bashir Ahmad,m,right-hand-bat,right-arm-fast-medium,Wicketkeeper,3,1997-06-01
+47309,143,Javid,Afghan,Javid Afghan,m,,,Batsman,1,1994-09-27
+47312,143,Masharaf,Alikhel,Masharaf Alikhel,m,right-hand-bat,,Bowler,2,2009-01-01
+47315,143,Naiz,Naiz,Naiz Naiz,m,,,Batsman,1,2002-02-20
+47318,143,Nasrullah,Mirakhel,Nasrullah Mirakhel,m,,,Allrounder,4,2000-01-01
+47321,143,Saidullah,Shenwari,Saidullah Shenwari,m,,,Bowler,2,1998-01-01
+47324,43444,Sajidullah,Safi,Sajidullah Safi,m,left-hand-bat,,Bowler,2,1988-04-03
+47327,143,Shafiq,Safi,Shafiq Safi,m,,,Bowler,2,2004-04-21
+47330,52126,Shahab,Khan,Shahab Khan,m,right-hand-bat,right-arm-fast,Bowler,2,1998-05-22
+47333,43444,Zabiullah,Ahmadzai,Zabiullah Ahmadzai,m,right-hand-bat,right-arm-fast-medium,Bowler,2,2004-08-10
+47336,143,Divith,Wijesekera,Divith Wijesekera,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1999-08-28
+47339,153732,Karun,Khanna,Karun Khanna,m,right-hand-bat,right-arm-offbreak,Allrounder,4,2001-02-22
+47342,143,Lakmal,Kasthuri,Lakmal Kasthuri,m,right-hand-bat,legbreak-googly,Bowler,2,1986-12-22
+47345,143,Navin,Wijesekera,Navin Wijesekera,m,left-hand-bat,right-arm-fast-medium,Bowler,2,1994-07-21
+47348,143,Nouman,Arif,Nouman Arif,m,right-hand-bat,,Bowler,2,1999-11-12
+47351,143,Ronit,Chawla,Ronit Chawla,m,right-hand-bat,right-arm-fast-medium,Bowler,2,2006-01-14
+47354,143,Saqib,Shahid,Saqib Shahid,m,right-hand-bat,right-arm-offbreak,Bowler,2,2006-03-17
+47357,143,Shivam,Subhash,Shivam Subhash,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1990-11-18
+47360,143,Abedullah,Safi,Abedullah Safi,m,,,Batsman,1,2003-03-21
+47363,43444,Ajmal,Oryakhil,Ajmal Oryakhil,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,2004-10-05
+47366,143,Ebad,Rahman,Ebad Rahman,m,left-hand-bat,left-arm-fast-medium,Bowler,2,2003-07-01
+47369,143,Naqi,Jaffry,Naqi Jaffry,m,left-hand-bat,,Allrounder,4,2007-02-08
+47372,153732,Narendra,Polasam,Narendra Polasam,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1986-04-05
+47375,43444,Rafiullah,Mandozai,Rafiullah Mandozai,m,right-hand-bat,,Wicketkeeper,3,1993-05-18
+47378,43444,Shahed,Abed,Shahed Abed,m,left-hand-bat,left-arm-fast-medium,Bowler,2,2002-11-23
+47381,43444,Shaheen,Mahmood,Shaheen Mahmood,m,right-hand-bat,right-arm-fast-medium,Wicketkeeper,3,2002-05-30
+47384,143,Shawkat,Zadran,Shawkat Zadran,m,right-hand-bat,right-arm-fast,Bowler,2,1998-04-21
+47387,43444,Waliullah,Mandozai,Waliullah Mandozai,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,2002-04-28
+47390,143,Zain,Jaffry,Zain Jaffry,m,right-hand-bat,right-arm-fast-medium,Batsman,1,2003-09-18
+47393,43444,Aryan,Safi,Aryan Safi,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1991-01-01
+47396,153732,Lenin,Durairaj,Lenin Durairaj,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1987-08-22
+47399,143,Wali,Shenwari,Wali Shenwari,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1987-01-01
+47402,153732,Sai,Sama,Sai Sama,m,right-hand-bat,right-arm-fast,Allrounder,4,1995-09-18
+47405,38404,Harshitha,Madavi,Harshitha Madavi,f,,,Batsman,1,2000-01-01
+47408,155043,Rubya,Haider,Rubya Haider,f,,,Bowler,2,2000-01-01
+47411,462,Adnan,Sunny,Adnan Sunny,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1984-06-01
+47414,52126,Hammad,Rana,Hammad Rana,m,right-hand-bat,slow-left-arm-orthodox,Bowler,2,1985-10-06
+47417,43444,Abdul,Subor,Abdul Subor,m,right-hand-bat,right-arm-offbreak,Batsman,1,1997-02-25
+47420,20,Ali,Murtaza,Ali Murtaza,m,right-hand-bat,right-arm-fast,Batsman,1,1995-07-21
+47423,153732,Avinash,Asoorya,Avinash Asoorya,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1981-12-04
+47426,52126,Bakhtyar,Afridi,Bakhtyar Afridi,m,right-hand-bat,right-arm-fast,Batsman,1,1995-01-01
+47429,153732,Bala,Singh,Bala Singh,m,right-hand-bat,right-arm-offbreak,Allrounder,4,1988-06-03
+47432,52126,Dawood,Surkhi,Dawood Surkhi,m,right-hand-bat,right-arm-fast,Allrounder,4,1999-01-23
+47435,143,Deepak,Lal,Deepak Lal,m,right-hand-bat,,Wicketkeeper,3,1988-03-09
+47438,43444,Jahanzeb,Abdurahizai,Jahanzeb Abdurahizai,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1999-03-06
+47441,52126,Kazim,Syed,Kazim Syed,m,right-hand-bat,right-arm-fast,Bowler,2,1996-08-24
+47444,143,Makhan,Bharti,Makhan Bharti,m,right-hand-bat,,Bowler,2,1962-01-12
+47447,143,Mohammad,Hussain,Mohammad Hussain,m,,,Wicketkeeper,3,2000-01-01
+47450,43444,Muzamil,Omarkhel,Muzamil Omarkhel,m,right-hand-bat,,Batsman,1,2002-03-02
+47453,153732,Sagar,Memane,Sagar Memane,m,left-hand-bat,left-arm-fast-medium,Bowler,2,1989-05-09
+47456,143,Sahil,Bharti,Sahil Bharti,m,right-hand-bat,left-arm-fast-medium,Bowler,2,1988-07-24
+47459,153732,Sushil,Sharma,Sushil Sharma,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1983-04-24
+47462,52126,Yawar,Abbas,Yawar Abbas,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1997-07-15
+47468,143,Abdulhaq,Zakhel,Abdulhaq Zakhel,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1993-01-01
+47471,43444,Akmal,Rahimi,Akmal Rahimi,m,right-hand-bat,right-arm-fast-medium,Bowler,2,2002-07-14
+47474,43444,Mahmud,Ali,Mahmud Ali,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1994-12-10
+47477,43444,Pasun,Khapalwak,Pasun Khapalwak,m,left-hand-bat,left-arm-fast-medium,Allrounder,4,2003-09-04
+47480,43444,Zobiyr,Adelyar,Zobiyr Adelyar,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,2001-06-02
+47483,43444,Adeljan,Sardar,Adeljan Sardar,m,left-hand-bat,left-arm-fast,Bowler,2,1995-01-01
+47486,143,Adnan,Sandhu,Adnan Sandhu,m,right-hand-bat,right-arm-fast,Bowler,2,1985-04-01
+47489,52126,Amir,Latif,Amir Latif,m,right-hand-bat,right-arm-fast,Batsman,1,1986-12-04
+47492,43444,Helal,Momand,Helal Momand,m,right-hand-bat,right-arm-fast,Allrounder,4,1997-01-01
+47495,52126,Imran,Goraya,Imran Goraya,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1978-06-07
+47498,43444,Mohamad,Nazir,Mohamad Nazir,m,right-hand-bat,,Allrounder,4,1997-08-06
+47501,52126,Saqib,Riaz,Saqib Riaz,m,right-hand-bat,right-arm-offbreak,Allrounder,4,1991-05-20
+47504,52126,Sikandar,Hayat,Sikandar Hayat,m,right-hand-bat,,Allrounder,4,1987-02-15
+47507,43444,Zabihullah,Nasiry,Zabihullah Nasiry,m,right-hand-bat,right-arm-fast,Bowler,2,1997-01-06
+47510,143,Zaman,Sikander,Zaman Sikander,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1987-06-26
+47513,143,Karanbir,Singh,Karanbir Singh,m,,,Batsman,1,2000-01-01
+47519,462,Bashir,Saffy,Bashir Saffy,m,right-hand-bat,,Allrounder,4,1985-08-04
+47522,43444,Dilagha,Jabarkhel,Dilagha Jabarkhel,m,right-hand-bat,,Bowler,2,2007-01-01
+47525,43444,Mohammad,Amin,Mohammad Amin,m,left-hand-bat,right-arm-fast,Batsman,1,2003-01-01
+47528,143,Samim,Naseri,Samim Naseri,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1994-12-28
+47531,43444,Shafiullah,Jusufzai,Shafiullah Jusufzai,m,right-hand-bat,right-arm-fast,Batsman,1,1988-01-01
+47534,153732,Dil,Randhawa,Dil Randhawa,m,right-hand-bat,right-arm-fast,Allrounder,4,2001-08-24
+47537,143,Gursewan,Singh,Gursewan Singh,m,right-hand-bat,right-arm-offbreak,Allrounder,4,1996-09-27
+47540,43444,Ibrahim,Zadran,Ibrahim Zadran,m,right-hand-bat,right-arm-fast,Allrounder,4,1996-01-01
+47543,153732,Khushdeep,Singh,Khushdeep Singh,m,right-hand-bat,,Wicketkeeper,3,2001-10-10
+47546,153732,Palani,Vel,Palani Vel,m,right-hand-bat,,Batsman,1,1987-02-01
+47549,153732,Rajkaran,Singh,Rajkaran Singh,m,right-hand-bat,right-arm-fast-medium,Batsman,1,2000-11-11
+47552,153732,Saurav,Sharma,Saurav Sharma,m,right-hand-bat,right-arm-fast,Bowler,2,1997-11-09
+47555,43444,Shekil,Zadran,Shekil Zadran,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1997-01-01
+47558,43444,Wahidullah,Jabarkhel,Wahidullah Jabarkhel,m,right-hand-bat,,Bowler,2,1989-02-09
+47561,43444,Abdul,Jabarkhel,Abdul Jabarkhel,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1993-02-15
+47564,43444,Abidullah,Kotwal,Abidullah Kotwal,m,right-hand-bat,right-arm-fast,Bowler,2,2005-05-02
+47567,251,Ashtiaq,Shah,Ashtiaq Shah,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1987-04-03
+47570,143,Atef,Sohil,Atef Sohil,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1993-01-01
+47573,153732,Bhargav,Pandya,Bhargav Pandya,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1993-07-30
+47576,43444,Hamid,Hamidi,Hamid Hamidi,m,right-hand-bat,,Wicketkeeper,3,2003-10-21
+47579,43444,Hamid,Safi,Hamid Safi,m,right-hand-bat,right-arm-fast,Wicketkeeper,3,2001-01-01
+47582,153732,Kushal,Madane,Kushal Madane,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1989-01-19
+47585,43444,Maiwand,Momand,Maiwand Momand,m,right-hand-bat,right-arm-fast,Allrounder,4,2000-01-01
+47588,43444,Mansoor,Safi,Mansoor Safi,m,right-hand-bat,,Wicketkeeper,3,2001-01-01
+47591,43444,Rohid,Hamidi,Rohid Hamidi,m,right-hand-bat,right-arm-fast,Wicketkeeper,3,2005-11-30
+47594,43444,Shawkat,Durani,Shawkat Durani,m,right-hand-bat,right-arm-fast,Batsman,1,2005-01-01
+47597,11,Shehzad,Afzal,Shehzad Afzal,m,right-hand-bat,,Bowler,2,1980-05-25
+47600,153732,Vikram,Choudhary,Vikram Choudhary,m,right-hand-bat,,Batsman,1,1987-11-09
+47603,143,Waqar,Ahmed,Waqar Ahmed,m,left-hand-bat,,Wicketkeeper,3,1993-10-03
+47606,143,Harmeet,Singh,Harmeet Singh,m,,,Allrounder,4,2000-01-01
+47609,143,Raza,Hyder,Raza Hyder,m,,,Allrounder,4,2000-01-01
+47612,143,Ali,Shahbazkhel,Ali Shahbazkhel,m,,,Allrounder,4,2001-01-01
+47615,462,Katie,Jones,Katie Jones,m,,,Bowler,2,2005-12-28
+47618,143,Sai,Karanam,Sai Karanam,m,,,Bowler,2,2000-01-01
+47621,143,Umar,Tariq,Umar Tariq,m,,,Bowler,2,2000-01-01
+47624,462,Kashif,Ali,Kashif Ali,m,right-hand-bat,right-arm-fast-medium,Batsman,1,1998-02-07
+47627,143,Adnan,Waziri,Adnan Waziri,m,,,Bowler,2,2000-01-01
+47630,143,Dilip,Cheluvappa,Dilip Cheluvappa,m,,,Batsman,1,2000-01-01
+47633,462,Arafat,Bhuiyan,Arafat Bhuiyan,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1996-10-11
+47636,462,Rebecca,Odgers,Rebecca Odgers,f,,,Batsman,1,2005-01-01
+47642,64306,Jhatavedh,Subramanyan,Jhatavedh Subramanyan,m,right-hand-bat,legbreak-googly,Bowler,2,1999-09-16
+47645,153732,P,Vidyuth,P Vidyuth,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,2000-01-01
+47648,153732,G,Parthasarathy,G Parthasarathy,m,right-hand-bat,right-arm-offbreak,Allrounder,4,2001-06-23
+47651,153732,Vetrivel,I,Vetrivel I,m,,,Allrounder,4,2000-01-01
+47654,2802,Muhammad Mudassar,Ali,Muhammad Mudassar Ali,m,,,Bowler,2,2000-01-01
+47657,2802,Qamar,Awan,Qamar Awan,m,,,Bowling Allrounder,11,2000-01-01
+47660,2802,Taimoor,Bhatti,Taimoor Bhatti,m,,,Batsman,1,2000-01-01
+47663,2802,Muhammad Saghir,Khan,Muhammad Saghir Khan,m,,,Bowling Allrounder,11,2000-01-01
+47666,2802,Hilal,Afghan,Hilal Afghan,m,,,Bowler,2,2000-01-01
+47669,2802,Jaiditya,Malik,Jaiditya Malik,m,,,Batsman,1,2000-01-01
+47672,2802,Mayank Rajesh,Kumar,Mayank Rajesh Kumar,m,,,Batsman,1,2000-01-01
+47684,2802,Vansh,Kumar,Vansh Kumar,m,,,Wicketkeeper,3,2000-01-01
+47687,2802,Farman,Afridi,Farman Afridi,m,,,Bowler,2,2000-01-01
+47690,2802,Hriday,Savnani,Hriday Savnani,m,,,Bowler,2,2000-01-01
+47693,2802,Ethan,"D,Souza","Ethan D,Souza",m,,,Batsman,1,2000-01-01
+47696,2802,Shalom,Dsouza,Shalom Dsouza,m,,,Batsman,1,2000-01-01
+47699,2802,Hardim,Pai,Hardim Pai,m,,,Batsman,1,2000-01-01
+47702,2802,Hrdik,Pai,Hrdik Pai,m,,,Batsman,1,2000-01-01
+47705,2802,Hash,Sabnani,Hash Sabnani,m,,,Batsman,1,2000-01-01
+47708,2802,Akshat,Rai,Akshat Rai,m,,,Bowler,2,2000-01-01
+47711,2802,Harit,Shetty,Harit Shetty,m,,,Bowler,2,2000-01-01
+47714,2802,Adnan,Arif,Adnan Arif,m,,,Batsman,1,2000-01-01
+47717,2802,Faisal,Baig,Faisal Baig,m,,,Batsman,1,2000-01-01
+47720,2802,Harshit,Kaushik,Harshit Kaushik,m,,,Batsman,1,2000-01-01
+47723,2802,Syed,Essam,Syed Essam,m,,,Batsman,1,2000-01-01
+47726,2802,Muhammad,Sameer,Muhammad Sameer,m,,,Bowler,2,2000-01-01
+47729,2802,Farhan,Babar,Farhan Babar,m,,,Batsman,1,2000-01-01
+47732,2802,Muhammad,Irfan,Muhammad Irfan,m,,,Batsman,1,2000-01-01
+47735,2802,Shahrukh,Amin,Shahrukh Amin,m,,,Batsman,1,2000-01-01
+47738,2802,Umer,Dogar,Umer Dogar,m,,,Batsman,1,2000-01-01
+47741,2802,Akshay,Puthanveetil,Akshay Puthanveetil,m,,,Batsman,1,2000-01-01
+47744,2802,Clinton,Berkenshaw,Clinton Berkenshaw,m,,,Batsman,1,2000-01-01
+47747,2802,Muhammad,Shahdad,Muhammad Shahdad,m,,,Batsman,1,2000-01-01
+47750,2802,Samal,Udawaththa,Samal Udawaththa,m,,,Batsman,1,2000-01-01
+47753,2802,Uzai,Haider,Uzai Haider,m,,,Batsman,1,2000-01-01
+47756,2802,Sana,Ulhaq Bhatti,Sana Ulhaq Bhatti,m,,,Wicketkeeper,3,2000-01-01
+47759,2802,Shabik,Ifthany,Shabik Ifthany,m,,,Wicketkeeper,3,2000-01-01
+47762,2802,Abdullah,Kayani,Abdullah Kayani,m,,,Bowler,2,2000-01-01
+47765,2802,Sailles,Jaishankar,Sailles Jaishankar,m,,,Bowler,2,2000-01-01
+47768,2802,Wasim,Akram,Wasim Akram,m,,,Bowler,2,2000-01-01
+47771,2802,Uzair,Haider,Uzair Haider,m,,,Batsman,1,2000-01-01
+47774,2802,Haider,Ali,Haider Ali,m,,,Batsman,1,2000-01-01
+47777,2802,Nasir,Faraz,Nasir Faraz,m,,,Batsman,1,2000-01-01
+47780,2802,Shahbaz,Ali,Shahbaz Ali,m,,,Batsman,1,2000-01-01
+47783,2802,Mohammed,Faraazuddin,Mohammed Faraazuddin,m,,,Bowler,2,2000-01-01
+47786,2802,Muhammad Rohid,Khan,Muhammad Rohid Khan,m,,,Bowler,2,2000-01-01
+47789,2802,Uzair,Bacha,Uzair Bacha,m,,,Batsman,1,2000-01-01
+47792,2802,Abdul,Muqtadar Babar,Abdul Muqtadar Babar,m,,,Batsman,1,2000-01-01
+47795,2802,Anoop,Gopalkrishna,Anoop Gopalkrishna,m,,,Batsman,1,2000-01-01
+47798,2802,Kaseem,Sajjad,Kaseem Sajjad,m,,,Batsman,1,2000-01-01
+47801,2802,Mohammed,Savad,Mohammed Savad,m,,,Batsman,1,2000-01-01
+47804,2802,Yash,Punja,Yash Punja,m,,,Batsman,1,2000-01-01
+47807,2802,Irshad,Hussain,Irshad Hussain,m,,,Bowler,2,2000-01-01
+47813,2802,Zubair,Khan,Zubair Khan,m,,,Bowler,2,2000-01-01
+47816,224,Arslan,Safdar,Arslan Safdar,m,,,Batsman,1,2001-06-07
+47819,224,Baryal,Khan,Baryal Khan,m,,,Bowler,2,1999-07-22
+47822,224,Haider,Abbas,Haider Abbas,m,,,Batsman,1,1998-10-19
+47825,224,Hemdev,Amirthalingam,Hemdev Amirthalingam,m,,,Allrounder,4,2002-05-18
+47828,224,Imaad,Jamil,Imaad Jamil,m,,,Bowler,2,2003-01-08
+47831,224,Isa,Zaroo,Isa Zaroo,m,,,Allrounder,4,2000-04-17
+47834,224,Kush,Narayan,Kush Narayan,m,,,Allrounder,4,2000-12-19
+47837,224,Mashhood,Khan,Mashhood Khan,m,,,Allrounder,4,1999-03-18
+47840,224,Muhammad,Ibrahim,Muhammad Ibrahim,m,,,Allrounder,4,2003-10-03
+47843,224,Ritik,Reddy,Ritik Reddy,m,,,Batsman,1,2000-01-05
+47846,224,Saaim,Bhatti,Saaim Bhatti,m,,,Bowler,2,2004-02-16
+47852,224,Sceyon,Prathepan,Sceyon Prathepan,m,,,Batsman,1,2004-01-28
+47855,224,Sud,Fernando,Sud Fernando,m,,,Allrounder,4,2001-06-04
+47858,224,Veer,Swarup,Veer Swarup,m,,,Allrounder,4,1997-08-08
+47861,224,Yahyaa,Jahangir,Yahyaa Jahangir,m,,,Allrounder,4,2002-01-19
+47864,224,Abischek,Kumarasamy,Abischek Kumarasamy,m,,,Wicketkeeper,3,2003-11-26
+47867,224,Hudhayfah,Ibn-Haroon,Hudhayfah Ibn-Haroon,m,,,Batsman,1,2003-05-12
+47870,224,Hussain,Khan,Hussain Khan,m,,,Batsman,1,1998-10-11
+47873,224,Rahul,Dambal,Rahul Dambal,m,,,Bowler,2,2002-07-18
+47876,224,Sahil,Yasir,Sahil Yasir,m,,,Bowler,2,2001-09-13
+47879,224,Shiv,Patel,Shiv Patel,m,,,Bowler,2,2003-07-23
+47882,224,Syed,Ashrafi,Syed Ashrafi,m,,,Bowler,2,2002-08-23
+47885,224,Ubaydullah,Ibn-Haroon,Ubaydullah Ibn-Haroon,m,,,Bowler,2,2001-11-04
+47888,224,Zeryab,Kiani,Zeryab Kiani,m,,,Bowler,2,1999-08-23
+47891,224,Akash,Arun,Akash Arun,m,,,Bowler,2,2004-07-08
+47894,224,Alan,Jose,Alan Jose,m,,,Batsman,1,1997-06-26
+47897,224,Ani,Bhat,Ani Bhat,m,,,Allrounder,4,1997-07-12
+47900,224,Arun,Joy,Arun Joy,m,,,Bowler,2,1996-09-30
+47903,224,Jafar,Ali,Jafar Ali,m,,,Bowler,2,1997-11-14
+47906,224,Jassim,Raheem,Jassim Raheem,m,,,Batsman,1,2002-02-26
+47909,224,Jerrin,Jijy,Jerrin Jijy,m,,,Batsman,1,2003-09-01
+47912,224,Jinoy,Raju,Jinoy Raju,m,,,Bowler,2,1999-08-10
+47915,224,Levi,Perera,Levi Perera,m,,,Allrounder,4,1998-03-03
+47918,224,Mevin,Alex,Mevin Alex,m,,,Batsman,1,1999-09-26
+47921,224,Rifat,Hossain,Rifat Hossain,m,,,Allrounder,4,1996-11-01
+47924,224,Sajeel,Uddin,Sajeel Uddin,m,,,Batsman,1,2000-09-15
+47927,224,Abbas,Zaidi,Abbas Zaidi,m,,,Bowler,2,2002-08-24
+47930,224,Abdul,Matin,Abdul Matin,m,,,Bowler,2,2000-01-01
+47933,224,Abdullah,Hajir,Abdullah Hajir,m,,,Batsman,1,2000-12-06
+47936,224,Abdur,Khan,Abdur Khan,m,,,Batsman,1,1994-11-02
+47939,224,Agha,Khan,Agha Khan,m,,,Batsman,1,1994-11-02
+47942,224,Arya,Raikundalia,Arya Raikundalia,m,,,Batsman,1,2002-08-15
+47945,224,Attique,Riaz,Attique Riaz,m,,,Allrounder,4,2000-07-30
+47948,224,Bilal,Afzal,Bilal Afzal,m,,,Batsman,1,1997-10-02
+47951,224,Hashir,Sultan,Hashir Sultan,m,,,Batsman,1,1995-07-07
+47954,224,Ibrahim,Butt,Ibrahim Butt,m,,,Batsman,1,2002-01-30
+47957,224,Kashif,Shah,Kashif Shah,m,,,Allrounder,4,1998-06-01
+47960,224,Lawangin,Mukhtar,Lawangin Mukhtar,m,,,Batsman,1,2002-08-14
+47963,224,Mujtaba,Mohiuddin,Mujtaba Mohiuddin,m,,,Batsman,1,2002-05-25
+47966,224,Nasif,Ibrahim,Nasif Ibrahim,m,,,Allrounder,4,1999-12-02
+47969,224,Ranbir,Pratap,Ranbir Pratap,m,,,Batsman,1,1998-06-09
+47972,224,Rishabh,Pratap,Rishabh Pratap,m,,,Wicketkeeper,3,1996-04-05
+47975,224,Rizwan,Ali,Rizwan Ali,m,,,Bowler,2,2002-01-16
+47978,224,Rowail,Gill,Rowail Gill,m,,,Allrounder,4,1996-04-28
+47981,224,Umar,Waheed,Umar Waheed,m,,,Bowler,2,2005-06-17
+47984,224,Usman,Rehman,Usman Rehman,m,,,Batsman,1,1999-01-05
+47987,224,Majid,Ali,Majid Ali,m,,,Allrounder,4,2000-01-01
+47990,224,Zaid,Soulat,Zaid Soulat,m,,,Wicketkeeper,3,2000-01-01
+47993,2802,Yash,Sabnani,Yash Sabnani,m,,,Batsman,1,2001-01-01
+47996,2802,Sheraz,Ahmed,Sheraz Ahmed,m,,,Bowler,2,2000-01-01
+47999,2802,Zeeshan,Ali,Zeeshan Ali,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,2004-01-12
+48002,224,Hammad,Farooq,Hammad Farooq,m,,,Batsman,1,1991-08-01
+48005,224,Hedayatullah,Hugianay,Hedayatullah Hugianay,m,,,Bowler,2,1996-03-07
+48008,224,Nasko,Topalov,Nasko Topalov,m,,,Batsman,1,1970-04-13
+48011,224,Riaz,Bhuiyan,Riaz Bhuiyan,m,,,Batsman,1,2003-12-29
+48014,224,Safeer,Ahmed,Safeer Ahmed,m,,,Bowler,2,1992-01-07
+48017,224,Shabbir,Esmail,Shabbir Esmail,m,,,Allrounder,4,1969-05-08
+48020,224,Shahid,Haidari,Shahid Haidari,m,,,Allrounder,4,2001-07-12
+48023,224,Umer,Farooq,Umer Farooq,m,,,Batsman,1,1988-02-02
+48026,224,Valtet,Dikov,Valtet Dikov,m,,,Bowler,2,1995-04-02
+48029,224,Vishal,Kumar,Vishal Kumar,m,,,Bowler,2,2000-01-01
+48032,2802,Hardik,Pai,Hardik Pai,m,,,Allrounder,4,2005-01-01
+48035,224,Anant,Bhushan,Anant Bhushan,m,,,Batsman,1,1984-12-05
+48038,224,Kalandar,Mohammad,Kalandar Mohammad,m,,,Allrounder,4,1979-12-05
+48041,224,Rakesh,Yadav,Rakesh Yadav,m,,,Batsman,1,1993-07-15
+48044,224,Roman,Lalotra,Roman Lalotra,m,,,Bowler,2,1998-09-13
+48047,224,Sahil,Kumar,Sahil Kumar,m,,,Bowler,2,1994-08-08
+48050,52126,Abdullah,Lodhi,Abdullah Lodhi,m,right-hand-bat,,Batsman,1,1993-06-16
+48053,224,Ghafoor,Turkmen,Ghafoor Turkmen,m,,,Bowler,2,2001-01-01
+48056,224,Habibullah,Sahmuradi,Habibullah Sahmuradi,m,,,Wicketkeeper,3,1988-01-01
+48059,224,Hesh,Moghaddam,Hesh Moghaddam,m,,,Allrounder,4,1957-08-28
+48062,224,Ismet,Turkmen,Ismet Turkmen,m,,,Wicketkeeper,3,1995-01-03
+48068,404,Mecit,Ozturk,Mecit Ozturk,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1980-01-01
+48071,224,Syed,Agha,Syed Agha,m,,,Allrounder,4,1988-02-17
+48074,224,Tajammal,Moshin,Tajammal Moshin,m,,,Batsman,1,1989-12-15
+48077,224,Zohaib,Iqbal,Zohaib Iqbal,m,,,Bowler,2,2000-01-01
+48080,224,Syed,Ali,Syed Ali,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,2001-01-01
+48083,462,Ben,Kellaway,Ben Kellaway,m,right-hand-bat,right-arm-offbreak,Allrounder,4,2004-01-05
+48086,3995,Christina,Baret,Christina Baret,f,,,Batsman,1,2000-01-01
+48089,3995,Yusrina,Yaakop,Yusrina Yaakop,m,,,Bowler,2,2000-01-01
+48092,3995,Nik,Nur Atiela,Nik Nur Atiela,f,,,Bowler,2,2000-01-01
+48095,3995,Amalin,Sorfina,Amalin Sorfina,f,,,Bowler,2,2000-01-01
+48098,3995,M Nur,Ainaa Azmi,M Nur Ainaa Azmi,f,,,Bowler,2,2000-01-01
+48101,3995,Nurr,Fatn Aisyah,Nurr Fatn Aisyah,f,,,Bowler,2,2000-01-01
+48104,3995,Ainur,Amelina,Ainur Amelina,f,,,Bowler,2,2000-01-01
+48107,862868,Rubina,Chhetry,Rubina Chhetry,f,,,Batsman,1,2000-01-01
+48110,862868,Kajal,Shrestha,Kajal Shrestha,f,,,Batsman,1,2000-01-01
+48113,862868,Indu,Barma,Indu Barma,f,,,Batsman,1,2000-01-01
+48116,862868,Apsari,Begam,Apsari Begam,f,,,Batsman,1,2000-01-01
+48119,862868,Mamta,Chaudhary,Mamta Chaudhary,f,,,Batsman,1,2000-01-01
+48122,862868,Sita Rana,Magar,Sita Rana Magar,f,,,Batsman,1,2000-01-01
+48125,862868,Kabita,Kunwar,Kabita Kunwar,f,,,Batsman,1,2000-01-01
+48128,862868,Jyoti,Pandey,Jyoti Pandey,f,,,Batsman,1,2000-01-01
+48131,862868,Samjhana,Khadka,Samjhana Khadka,f,,,Bowler,2,2000-01-01
+48134,862868,Kritika,Marasini,Kritika Marasini,f,,,Bowler,2,2000-01-01
+48137,862868,Asmina,Karmacharya,Asmina Karmacharya,f,,,Bowler,2,2000-01-01
+48140,862868,Kabita,Joshi,Kabita Joshi,f,right-hand-bat,right-arm-fast-medium,Bowler,2,1996-06-17
+48143,224,Kushaal,Krishnakumar,Kushaal Krishnakumar,m,,,Batsman,1,2000-01-01
+48146,224,Naeen,George,Naeen George,m,,,Batsman,1,2000-01-01
+48149,224,Sid,Nair,Sid Nair,m,,,Batsman,1,2000-01-01
+48152,224,Jinson,John,Jinson John,m,,,Batsman,1,2000-01-01
+48155,224,Gearold,Lynch,Gearold Lynch,m,,,Batsman,1,2000-01-01
+48158,224,Anu,Saju,Anu Saju,m,,,Bowler,2,2000-01-01
+48161,224,Naveen,George,Naveen George,m,,,Batsman,1,2000-01-01
+48164,224,Vinu,Jacob,Vinu Jacob,m,,,Bowler,2,2000-01-01
+48167,862868,Bindu,Rawal,Bindu Rawal,f,left-hand-bat,,Batsman,1,1996-06-11
+48170,862868,Saraswati,Kumari,Saraswati Kumari,f,right-hand-bat,right-arm-fast-medium,Allrounder,4,1997-06-28
+48173,153732,R,Sibi,R Sibi,m,,,Batsman,1,1997-12-03
+48176,153732,Rocky,Bhasker,Rocky Bhasker,m,right-hand-bat,right-arm-fast,Bowler,2,1993-03-07
+48179,153732,M Viju,Arul,M Viju Arul,m,,,Bowler,2,2000-01-01
+48182,153732,M,Ayush,M Ayush,m,right-hand-bat,,Allrounder,4,2004-04-10
+48185,153732,Sudhan,D,Sudhan D,m,,,Allrounder,4,2000-01-01
+48188,153732,Boopathi,Vaishna Kumar,Boopathi Vaishna Kumar,m,,,Batsman,1,2000-01-01
+48191,153732,R Vimal,Kumar,R Vimal Kumar,m,,,Allrounder,4,2000-01-01
+48194,153732,Tamil,Dhileepan M E,Tamil Dhileepan M E,m,,,Wicketkeeper,3,2000-01-01
+48197,153732,Subodh,Bhati,Subodh Bhati,f,,,Bowler,2,1990-09-29
+48200,153732,G,Godson,G Godson,m,,,Batsman,1,2000-01-01
+48203,153732,R,Rajkumar,R Rajkumar,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,1993-09-21
+48206,153732,T,Saran,T Saran,m,,,Wicketkeeper,3,2000-01-01
+48209,224,Ibrar,Ahmed,Ibrar Ahmed,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,2001-01-01
+48212,224,Rajveer,Midha,Rajveer Midha,m,right-hand-bat,right-arm-fast-medium,Allrounder,4,2001-01-01
+48215,2802,Mohammad,Usman,Mohammad Usman,m,right-hand-bat,right-arm-fast-medium,Bowler,2,1998-04-30
+48218,862868,Ishwori,Bist,Ishwori Bist,f,,,Bowler,2,2000-01-01
+48221,462,Josh,Hull,Josh Hull,m,,,Bowler,2,2000-01-01
+48224,462,Zain-ul-,Hassan,Zain-ul- Hassan,m,left-hand-bat,right-arm-fast-medium,Bowler,2,2000-10-28
